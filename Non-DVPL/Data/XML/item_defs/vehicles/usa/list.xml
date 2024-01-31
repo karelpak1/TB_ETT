@@ -1795,6 +1795,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A153_XM66F>
+	<T32E4>
+		<id>114</id>
+		<userString>#usa_vehicles:T32E4</userString>
+		<shortUserString>#usa_vehicles:T32E4_short</shortUserString>
+		<description>#usa_vehicles:T32E4_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T32E4>
 	<A149_AMBT>
 		<id>115</id>
 		<userString>#usa_vehicles:A149_AMBT</userString>

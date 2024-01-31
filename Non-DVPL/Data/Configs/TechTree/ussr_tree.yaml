@@ -65,6 +65,8 @@ tanks:
     KV1:
         position: [5, 22]
 #<!-- TIER_6 --> 
+    R197_KV_1S_MZ:
+        position: [6, 8]
     R140_M4A2_Loza:
         position: [6, 9]
     R160_object_244:

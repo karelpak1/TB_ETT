@@ -1685,4 +1685,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R194_ST_62_var_2>
+	<R197_KV_1S_MZ>
+		<id>108</id>
+		<userString>#ussr_vehicles:R197_KV_1S_MZ</userString>
+		<shortUserString>#ussr_vehicles:R197_KV_1S_MZ_short</shortUserString>
+		<description>#ussr_vehicles:R197_KV_1S_MZ_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R197_KV_1S_MZ>
 </root>
