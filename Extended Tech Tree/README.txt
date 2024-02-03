@@ -1,6 +1,8 @@
-=======================================================================================
-|This mod was created by GonnaHetzMe. This modification is not covered by any warranty|
-=======================================================================================
+========================================================================================
+|This mod was created by @GonnaHetzMe. This modification is not covered by any warranty|
+|------------------------------------------------------------------------------------- |
+|             Huge thanks to @Huntez_, for making Hybrid nation possible! <3           |
+========================================================================================
 		!!! Always make a backup before using modifications !!!
 
 For Tanks Blitz (Lesta) version: 10.7.x (only Lesta Game Center or download a modded apk file)
