@@ -1685,6 +1685,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R194_ST_62_var_2>
+	<R191_Object_283>
+		<id>106</id>
+		<userString>#ussr_vehicles:R191_Object_283</userString>
+		<shortUserString>#ussr_vehicles:R191_Object_283_short</shortUserString>
+		<description>#ussr_vehicles:R191_Object_283_descr</description>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</R191_Object_283>
 	<R197_KV_1S_MZ>
 		<id>108</id>
 		<userString>#ussr_vehicles:R197_KV_1S_MZ</userString>
