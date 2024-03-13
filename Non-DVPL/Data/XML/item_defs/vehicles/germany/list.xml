@@ -1828,4 +1828,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G164_Kpz_Pr_68_P>
+	<E75_CL>
+		<id>107</id>
+		<userString>#germany_vehicles:E75_CL</userString>
+		<shortUserString>#germany_vehicles:E75_CL_short</shortUserString>
+		<description>#germany_vehicles:E75_CL_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</E75_CL>
 </root>

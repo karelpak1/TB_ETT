@@ -182,6 +182,8 @@ tanks:
     G103_RU_251:
         position: [8, 24]
 #<!-- TIER_9 -->
+    E75_CL:
+        position: [9, 13]
     G_KpfPz_70:
         position: [9, 14]
     Waffentrager_IV_CL:

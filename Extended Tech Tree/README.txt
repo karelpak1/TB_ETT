@@ -5,7 +5,7 @@
 ========================================================================================
 		!!! Always make a backup before using modifications !!!
 
-For Tanks Blitz (Lesta) version: 10.7.x (only Lesta Game Center or download a modded apk file)
+For Tanks Blitz (Lesta) version: 10.9.x (only Lesta Game Center or download a modded apk file)
 
 Installation for Lesta Game Center version:
 	Copy and Paste, Data folder in to 
@@ -17,7 +17,7 @@ Installation for Lesta Game Center version:
 ======================================================================================
 		!!! Всегда делайте резервную копию перед использованием модификаций!!!
 
-Актуально для Tanks Blitz (Леста): 10.7.x (только Леста Геймс Центр или загруженный модифицированный apk-файл)
+Актуально для Tanks Blitz (Леста): 10.9.x (только Леста Геймс Центр или загруженный модифицированный apk-файл)
 
 Установка для Леста Геймс Центр версии:
 	Скопируйте и вставьте папку Data в: 

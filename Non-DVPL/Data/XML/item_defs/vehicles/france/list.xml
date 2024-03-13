@@ -40,7 +40,7 @@
 		<description>#france_vehicles:D1_descr</description>
 		<notInShop>false</notInShop>
 		<price>25<gold/>
-        </price>
+		</price>
 		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -86,7 +86,7 @@
 		<description>#france_vehicles:AMX40_descr</description>
 		<notInShop>false</notInShop>
 		<price>100<gold/>
-        </price>
+		</price>
 		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -260,7 +260,7 @@
 		<description>#france_vehicles:RenaultFT_AC_descr</description>
 		<notInShop>false</notInShop>
 		<price>25<gold/>
-        </price>
+		</price>
 		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -275,7 +275,7 @@
 		<description>#france_vehicles:RenaultUE57_descr</description>
 		<notInShop>false</notInShop>
 		<price>50<gold/>
-        </price>
+		</price>
 		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -847,7 +847,7 @@
 		<shortUserString>#france_vehicles:F34_ARL_V39_BP_short</shortUserString>
 		<description>#france_vehicles:F34_ARL_V39_BP_descr</description>
 		<price>500<gold/>
-        </price>
+		</price>
 		<sellPrice>500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
