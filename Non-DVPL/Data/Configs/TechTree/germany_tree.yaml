@@ -203,6 +203,8 @@ tanks:
     Pro_Ag_A:
         position: [9, 23]
 #<!-- TIER_10 -->
+    G_Erich_K_I :
+        position: [10, 13]
     G144_Kpz_50t :
         position: [10, 14]
     G_VK9001P:

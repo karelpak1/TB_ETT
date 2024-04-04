@@ -47,28 +47,30 @@ tanks:
         position: [7, 8]
     Oth28_Sturmfeur_HW:
         position: [7, 9]
-    Oth08_WH_Vindicator:
+    Oth52_ST_0424:
         position: [7, 10]
-    Oth22_Sega_Vulcan:
+    Oth08_WH_Vindicator:
         position: [7, 11]
-    WZ-135G_FT:
+    Oth22_Sega_Vulcan:
         position: [7, 12]
-    Oth19_BDT-5C:
+    WZ-135G_FT:
         position: [7, 13]
-    AMX_dracula:
+    Oth19_BDT-5C:
         position: [7, 14]
-    Oth16_KV_TG:
+    AMX_dracula:
         position: [7, 15]
-    Oth23_Werewolf:
+    Oth16_KV_TG:
         position: [7, 16]
-    Oth14_MdM_AshKnight:
+    Oth23_Werewolf:
         position: [7, 17]
-    Oth25_HWT20_FalconFire:
+    Oth14_MdM_AshKnight:
         position: [7, 18]
-    Oth34_PanzerMummy:
+    Oth25_HWT20_FalconFire:
         position: [7, 19]
-    Van_Helsing:
+    Oth34_PanzerMummy:
         position: [7, 20]
+    Van_Helsing:
+        position: [7, 21]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
         position: [8, 1]

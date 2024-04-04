@@ -717,4 +717,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth43_WZ-122_2_Werewolf>
+	<Oth52_ST_0424>
+		<id>57</id>
+		<userString>#other_vehicles:Oth52_ST_0424</userString>
+		<shortUserString>#other_vehicles:Oth52_ST_0424_short</shortUserString>
+		<description>#other_vehicles:Oth52_ST_0424_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth52_ST_0424>
 </root>

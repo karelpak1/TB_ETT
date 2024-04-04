@@ -1848,4 +1848,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</E75_CL>
+	<G_Erich_K_I>
+		<id>108</id>
+		<userString>#germany_vehicles:G_Erich_K_I</userString>
+		<shortUserString>#germany_vehicles:G_Erich_K_I_short</shortUserString>
+		<description>#germany_vehicles:G_Erich_K_I_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</G_Erich_K_I>
 </root>
