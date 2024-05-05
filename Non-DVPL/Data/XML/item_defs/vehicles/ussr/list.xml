@@ -1706,6 +1706,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R191_Object_283>
+	<R198_LTS_85>
+		<id>107</id>
+		<userString>#ussr_vehicles:R198_LTS_85</userString>
+		<shortUserString>#ussr_vehicles:R198_LTS_85_short</shortUserString>
+		<description>#ussr_vehicles:R198_LTS_85_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R198_LTS_85>
 	<R197_KV_1S_MZ>
 		<id>108</id>
 		<userString>#ussr_vehicles:R197_KV_1S_MZ</userString>

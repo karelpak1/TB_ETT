@@ -1859,7 +1859,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1867,6 +1867,6 @@
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
-		<configurationModes>development production supertest</configurationModes>
+		<configurationModes>development production</configurationModes>
 	</G_Erich_K_I>
 </root>

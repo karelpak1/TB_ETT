@@ -1,33 +1,37 @@
-premium_rows: 0
+premium_rows: 21
 
 tanks:
 #<!-- TIER_1 -->
     Oth10_WarDuck:
-        position: [1, 1]
+        position: [1, 20]
 #<!-- TIER_5 -->
     Oth29_A15HW:
-        position: [5, 1]
+        position: [5, 19]
     Oth17_BDT-5A:
-        position: [5, 2]
+        position: [5, 17]
     Oth24_StuH_42HW:
-        position: [5, 3]
+        position: [5, 18]
     Oth15_RustCrab:
-        position: [5, 4]
+        position: [5, 19]
     Oth35_PanzerMejai:
-        position: [5, 5]
+        position: [5, 20]
     Oth26_StrvM42HW:
-        position: [5, 6]
+        position: [5, 21]
+    Oth51_LV4:
+        position: [5, 22]
 #<!-- TIER_6 -->
     Oth33_Blizzard_BP:
-        position: [6, 1]
+        position: [6, 17]
     Strv_74A2:
-        position: [6, 2]
+        position: [6, 18]
     Oth31_T150BP:
-        position: [6, 3]
+        position: [6, 19]
     Oth27_M24_AMX:
-        position: [6, 4]
+        position: [6, 20]
     Oth18_BDT-5B:
-        position: [6, 5]
+        position: [6, 21]
+    Oth50_LV7:
+        position: [6, 22]
 #<!-- TIER_7 -->
     Sega_Edelweiss:
         position: [7, 1]
@@ -71,17 +75,26 @@ tanks:
         position: [7, 20]
     Van_Helsing:
         position: [7, 21]
+    Oth49_LV90:
+        position: [7, 22]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
-        position: [8, 1]
+        position: [8, 18]
     Akawara:
-        position: [8, 2]
+        position: [8, 19]
     Oth30_T54MS:
-        position: [8, 3]
+        position: [8, 20]
     Oth43_WZ-122_2_Werewolf:
-        position: [8, 4]
+        position: [8, 21]
+    Oth48_LV500:
+        position: [8, 22]
 #<!-- TIER_9 -->
     Oth38_50TP_Tyszkiewicza_S1:
-        position: [9, 1]
+        position: [9, 20]
     Oth11_T-55A:
-        position: [9, 2]
+        position: [9, 21]
+    Oth47_LV750:
+        position: [9, 22]
+#<!-- TIER_10 -->
+    Oth46_LV1300:
+        position: [10, 22]

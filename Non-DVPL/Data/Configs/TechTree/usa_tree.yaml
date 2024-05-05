@@ -195,6 +195,8 @@ tanks:
     A99_T92E1:
         position: [9, 26]
 #<!-- TIER_10 -->
+    A155_AAT60:
+        position: [10, 14]
     A128_Concept_1b:
         position: [10, 15]
     M60:
