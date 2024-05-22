@@ -79,6 +79,8 @@ tanks:
         position: [7, 22]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
+        position: [8, 17]
+    Oth53_LV426:
         position: [8, 18]
     Akawara:
         position: [8, 19]
