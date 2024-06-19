@@ -762,4 +762,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch36_WZ-111-1G_FT_Com>
+	<Ch52_WZ_122_6_F3>
+		<id>52</id>
+		<userString>#china_vehicles:Ch52_WZ_122_6_F3</userString>
+		<shortUserString>#china_vehicles:Ch52_WZ_122_6_F3_short</shortUserString>
+		<description>#china_vehicles:Ch52_WZ_122_6_F3_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch52_WZ_122_6_F3>
 </root>
