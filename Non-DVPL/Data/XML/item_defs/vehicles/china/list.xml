@@ -762,6 +762,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch36_WZ-111-1G_FT_Com>
+	<Ch46_113_140>
+		<id>51</id>
+		<userString>#china_vehicles:Ch46_113_140</userString>
+		<shortUserString>#china_vehicles:Ch46_113_140_short</shortUserString>
+		<description>#china_vehicles:Ch46_113_140_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch46_113_140>
 	<Ch52_WZ_122_6_F3>
 		<id>52</id>
 		<userString>#china_vehicles:Ch52_WZ_122_6_F3</userString>
@@ -782,4 +800,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch52_WZ_122_6_F3>
+	<Ch47_BZ-176>
+		<id>53</id>
+		<userString>#china_vehicles:Ch47_BZ-176</userString>
+		<shortUserString>#china_vehicles:Ch47_BZ-176_short</shortUserString>
+		<description>#china_vehicles:Ch47_BZ-176_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch47_BZ-176>
 </root>

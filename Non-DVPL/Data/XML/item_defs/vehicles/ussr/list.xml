@@ -1765,4 +1765,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R200_KV_4T>
+	<R_T_V_85>
+		<id>110</id>
+		<userString>#ussr_vehicles:R_T_V_85</userString>
+		<shortUserString>#ussr_vehicles:R_T_V_85_short</shortUserString>
+		<description>#ussr_vehicles:R_T_V_85_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible beast eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R_T_V_85>
 </root>

@@ -882,4 +882,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F11_Renault_G1R>
+	<F118_Char_Mle_75>
+		<id>81</id>
+		<userString>#france_vehicles:F118_Char_Mle_75</userString>
+		<shortUserString>#france_vehicles:F118_Char_Mle_75_short</shortUserString>
+		<description>#france_vehicles:F118_Char_Mle_75_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F118_Char_Mle_75>
 </root>
