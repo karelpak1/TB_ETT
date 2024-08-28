@@ -1853,4 +1853,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A155_AAT60>
+	<A150_MBT_B>
+		<id>118</id>
+		<userString>#usa_vehicles:A150_MBT_B</userString>
+		<shortUserString>#usa_vehicles:A150_MBT_B_short</shortUserString>
+		<description>#usa_vehicles:A150_MBT_B_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</A150_MBT_B>
 </root>

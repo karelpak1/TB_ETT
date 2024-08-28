@@ -196,10 +196,12 @@ tanks:
         position: [9, 26]
 #<!-- TIER_10 -->
     A155_AAT60:
-        position: [10, 14]
+        position: [10, 13]
     A128_Concept_1b:
-        position: [10, 15]
+        position: [10, 14]
     M60:
+        position: [10, 15]
+    A150_MBT_B:
         position: [10, 16]
     A116_XM551_Exp:
         position: [10, 17]

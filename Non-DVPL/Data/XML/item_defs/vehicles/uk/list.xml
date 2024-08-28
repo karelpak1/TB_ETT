@@ -401,9 +401,13 @@
 		<userString>#gb_vehicles:GB48_FV215b_183</userString>
 		<description>#gb_vehicles:GB48_FV215b_183_descr</description>
 		<shortUserString>#gb_vehicles:GB48_FV215b_183_short</shortUserString>
-		<price>6100000</price>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>2000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedHorizontal_springs_class3_user</tags>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1271,4 +1275,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB101_FV1066_Senlac>
+	<GB129_FV205b_Alligator>
+		<id>92</id>
+		<userString>#uk_vehicles:GB129_FV205b_Alligator</userString>
+		<shortUserString>#uk_vehicles:GB129_FV205b_Alligator_short</shortUserString>
+		<description>#uk_vehicles:GB129_FV205b_Alligator_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</GB129_FV205b_Alligator>
 </root>

@@ -1869,4 +1869,41 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G_Erich_K_I>
+	<PzVIB_Gold>
+		<id>109</id>
+		<userString>#germany_vehicles:PzVIB_Gold</userString>
+		<shortUserString>#germany_vehicles:PzVIB_Gold_short</shortUserString>
+		<description>#germany_vehicles:PzVIB_Gold_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank beast eventCamouflage_user fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</PzVIB_Gold>
+	<G162_Project_Kpz_07P_E>
+		<id>110</id>
+		<userString>#germany_vehicles:G162_Project_Kpz_07P_E</userString>
+		<shortUserString>#germany_vehicles:G162_Project_Kpz_07P_E_short</shortUserString>
+		<description>#germany_vehicles:G162_Project_Kpz_07P_E_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</G162_Project_Kpz_07P_E>
 </root>
