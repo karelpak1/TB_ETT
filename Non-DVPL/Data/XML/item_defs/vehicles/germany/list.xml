@@ -1769,6 +1769,27 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</G140_HWK_30>
+	<G148_Elephant>
+		<id>101</id>
+		<userString>#germany_vehicles:G148_Elephant</userString>
+		<shortUserString>#germany_vehicles:G148_Elephant_short</shortUserString>
+		<description>#germany_vehicles:G148_Elephant_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G148_Elephant>
 	<Nashorn_BP>
 		<id>102</id>
 		<userString>#germany_vehicles:Nashorn_BP</userString>

@@ -80,6 +80,8 @@ tanks:
     Ch17_WZ131_1_WZ132:
         position: [8, 15]
 #<!-- TIER_9 -->
+    Ch59_BZ58_2:
+        position: [9, 10]
     Ch45_WZ_114:
         position: [9, 11]
     Ch37_WZ-111G_FT:

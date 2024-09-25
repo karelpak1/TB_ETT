@@ -743,6 +743,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch44_114_SP2>
+	<Ch59_BZ58_2>
+		<id>45</id>
+		<userString>#china_vehicles:Ch59_BZ58_2</userString>
+		<shortUserString>#china_vehicles:Ch59_BZ58_2_short</shortUserString>
+		<description>#china_vehicles:Ch59_BZ58_2_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch59_BZ58_2>
 	<Ch36_WZ-111-1G_FT_Com>
 		<id>50</id>
 		<userString>#china_vehicles:Ch36_WZ-111-1G_FT_Com</userString>

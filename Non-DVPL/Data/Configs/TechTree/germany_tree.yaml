@@ -107,6 +107,8 @@ tanks:
         position: [6, 25]
 #<!-- TIER_7 -->
     E-25:
+        position: [7, 10]
+    G148_Elephant:
         position: [7, 11]
     G147_mPanzer_64:
         position: [7, 12]

@@ -852,4 +852,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth53_LV426>
+	<Oth54_KV3_KBS>
+		<id>59</id>
+		<userString>#other_vehicles:Oth54_KV3_KBS</userString>
+		<shortUserString>#other_vehicles:Oth54_KV3_KBS_short</shortUserString>
+		<description>#other_vehicles:Oth54_KV3_KBS_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth54_KV3_KBS>
 </root>

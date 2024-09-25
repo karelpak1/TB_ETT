@@ -1786,4 +1786,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R_T_V_85>
+	<R178_Object_780>
+		<id>111</id>
+		<userString>#ussr_vehicles:R178_Object_780</userString>
+		<shortUserString>#ussr_vehicles:R178_Object_780_short</shortUserString>
+		<description>#ussr_vehicles:R178_Object_780_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>werewolf_2</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R178_Object_780>
 </root>
