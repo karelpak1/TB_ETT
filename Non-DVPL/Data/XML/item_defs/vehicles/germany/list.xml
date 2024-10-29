@@ -1919,12 +1919,31 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G162_Project_Kpz_07P_E>
+	<G141_VK7501K>
+		<id>111</id>
+		<userString>#germany_vehicles:G141_VK7501K</userString>
+		<shortUserString>#germany_vehicles:G141_VK7501K_short</shortUserString>
+		<description>#germany_vehicles:G141_VK7501K_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
-	</G162_Project_Kpz_07P_E>
+	</G141_VK7501K>
 </root>
