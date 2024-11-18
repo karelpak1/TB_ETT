@@ -1780,7 +1780,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -1928,6 +1928,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G162_Project_Kpz_07P_E>
+	<JagdPz_E100_Gold>
+		<id>112</id>
+		<userString>#germany_vehicles:JagdPz_E100_Gold</userString>
+		<shortUserString>#germany_vehicles:JagdPz_E100_Gold_short</shortUserString>
+		<description>#germany_vehicles:JagdPz_E100_Gold_descr</description>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG eventCamouflage_user fictional</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</JagdPz_E100_Gold>
 	<G141_VK7501K>
 		<id>111</id>
 		<userString>#germany_vehicles:G141_VK7501K</userString>

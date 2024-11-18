@@ -209,7 +209,9 @@ tanks:
     Pro_Ag_A:
         position: [9, 25]
 #<!-- TIER_10 -->
-    G_Erich_K_I :
+    G_Erich_K_I:
+        position: [10, 13]
+    JagdPz_E100_Gold:
         position: [10, 14]
     G162_Project_Kpz_07P_E:
         position: [10, 15]
