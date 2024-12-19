@@ -291,7 +291,7 @@
 		<description>#european_vehicles:It10_P43_BD_descr</description>
 		<price>2500<gold/>
 		</price>
-		<sellPrice>1250<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -435,7 +435,7 @@
 		<description>#european_vehicles:S07_Strv74BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -555,7 +555,7 @@
 		<description>#european_vehicles:Cz08_T-25BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -774,7 +774,7 @@
 		<description>#european_vehicles:It10_P43_bis_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -883,7 +883,7 @@
 		<description>#european_vehicles:Cz08_T-25BPS_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1073,7 +1073,7 @@
 		<description>#european_vehicles:Cz29_Skoda_P-JS_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

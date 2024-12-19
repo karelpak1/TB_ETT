@@ -485,7 +485,7 @@
 		<description>#other_vehicles:Oth27_M24_AMX_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -544,7 +544,7 @@
 		<description>#other_vehicles:Oth31_T150BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -564,7 +564,7 @@
 		<description>#other_vehicles:Oth33_Blizzard_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -624,7 +624,7 @@
 		<notInShop>false</notInShop>
 		<price>5000<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>2500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
@@ -645,7 +645,7 @@
 		<notInShop>false</notInShop>
 		<price>7500<gold/>
 		</price>
-		<sellPrice>1000<gold/>
+		<sellPrice>3750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
@@ -666,7 +666,7 @@
 		<notInShop>false</notInShop>
 		<price>10000<gold/>
 		</price>
-		<sellPrice>1500<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank collectible fictional eventCamouflage_user</tags>

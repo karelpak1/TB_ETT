@@ -573,7 +573,7 @@
 		<description>#china_vehicles:Type_58BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -688,7 +688,7 @@
 		<description>#china_vehicles:Ch15_59_16_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -709,7 +709,7 @@
 		<description>#china_vehicles:Ch34_WZ-131G_FT_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -800,8 +800,8 @@
 		<userString>#china_vehicles:Ch51_BZ_58</userString>
 		<shortUserString>#china_vehicles:Ch51_BZ_58_short</shortUserString>
 		<description>#china_vehicles:Ch51_BZ_58_descr</description>
-		<price>900000</price>
-		<enrichmentPermanentCost>5300</enrichmentPermanentCost>
+		<price>1460000</price>
+		<enrichmentPermanentCost>10200</enrichmentPermanentCost>
 		<tags>heavyTank</tags>
 		<level>7</level>
 		<combatRole>

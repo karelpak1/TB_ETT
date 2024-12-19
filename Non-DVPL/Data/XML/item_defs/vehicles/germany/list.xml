@@ -740,7 +740,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>4700</enrichmentPermanentCost>
 		<tags>mediumTank collectible enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
@@ -1019,7 +1019,7 @@
 		<description>#germany_vehicles:PzIV_Hydro_descr</description>
 		<price>2400<gold/>
 		</price>
-		<sellPrice>2400<gold/>
+		<sellPrice>250<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1482,7 +1482,7 @@
 		<description>#germany_vehicles:VK2801_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1542,7 +1542,7 @@
 		<description>#germany_vehicles:PzVI_AusfBP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1640,7 +1640,7 @@
 		<shortUserString>#germany_vehicles:VK3002DB_BP_short</shortUserString>
 		<description>#germany_vehicles:VK3002DB_BP_descr</description>
 		<price>500<gold/></price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1697,7 +1697,7 @@
 		<shortUserString>#germany_vehicles:JagdPzIV_AusfBP_short</shortUserString>
 		<description>#germany_vehicles:JagdPzIV_AusfBP_descr</description>
 		<price>500<gold/></price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1717,7 +1717,7 @@
 		<shortUserString>#germany_vehicles:G_VK3502_BP_short</shortUserString>
 		<description>#germany_vehicles:G_VK3502_BP_descr</description>
 		<price>500<gold/></price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1776,7 +1776,7 @@
 		<description>#germany_vehicles:G148_Elephant_descr</description>
 		<price>5000<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>2500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1797,7 +1797,7 @@
 		<description>#germany_vehicles:Nashorn_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1956,7 +1956,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>

@@ -374,7 +374,7 @@
 		<notInShop>false</notInShop>
 		<price>1500<gold/>
 		</price>
-		<sellPrice>1500<gold/>
+		<sellPrice>2500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
 		<tags>mediumTank collectible enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
@@ -488,7 +488,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>5100</enrichmentPermanentCost>
 		<tags>heavyTank collectible enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
@@ -710,7 +710,7 @@
 		<shortUserString>#ussr_vehicles:KV-220_test_short</shortUserString>
 		<price>2500<gold/>
 		</price>
-		<sellPrice>2500<gold/>
+		<sellPrice>250<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1313,7 +1313,7 @@
 		<description>#ussr_vehicles:KV-1s-BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1431,7 +1431,7 @@
 		<description>#ussr_vehicles:T34_85BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1734,7 +1734,7 @@
 		<description>#ussr_vehicles:R197_KV_1S_MZ_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1772,7 +1772,7 @@
 		<description>#ussr_vehicles:R_T_V_85_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1806,4 +1806,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R178_Object_780>
+	<SU_122>
+		<id>112</id>
+		<userString>#ussr_vehicles:SU_122</userString>
+		<shortUserString>#ussr_vehicles:SU_122_short</shortUserString>
+		<description>#ussr_vehicles:SU_122_descr</description>
+		<price>3000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</SU_122>
 </root>

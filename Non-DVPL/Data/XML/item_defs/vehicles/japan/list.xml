@@ -207,7 +207,7 @@
 		<description>#japan_vehicles:PzVI_GuP_descr</description>
 		<price>1200<gold/>
 		</price>
-		<sellPrice>1200<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
@@ -227,7 +227,7 @@
 		<description>#japan_vehicles:Pz_IV_AusfH_descr</description>
 		<price>1200<gold/>
     </price>
-		<sellPrice>1200<gold/>
+		<sellPrice>250<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -316,7 +316,7 @@
 		<description>#japan_vehicles:IS-2_GuP_descr</description>
 		<price>1200<gold/>
 		</price>
-		<sellPrice>1200<gold/>
+		<sellPrice>2500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -336,7 +336,7 @@
 		<description>#japan_vehicles:Firefly_GuP_descr</description>
 		<price>250<gold/>
         </price>
-		<sellPrice>250<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -505,7 +505,7 @@
 		<description>#japan_vehicles:J29_Ju_Nu_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

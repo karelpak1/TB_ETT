@@ -458,7 +458,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>5500</enrichmentPermanentCost>
 		<tags>mediumTank collectible aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
@@ -693,7 +693,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>4400</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
@@ -848,7 +848,7 @@
 		<shortUserString>#usa_vehicles:M4A2E4_short</shortUserString>
 		<price>2350<gold/>
 		</price>
-		<sellPrice>2350<gold/>
+		<sellPrice>250<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
@@ -1265,7 +1265,7 @@
 		<description>#usa_vehicles:M4A3E8_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1328,7 +1328,7 @@
 		<description>#usa_vehicles:M6E2BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1348,7 +1348,7 @@
 		<description>#usa_vehicles:A125_AEP_1_descr</description>
 		<price>15000<gold/>
 		</price>
-		<sellPrice>7500<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1470,7 +1470,7 @@
 		<description>#usa_vehicles:M18E2BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1547,7 +1547,7 @@
 		<description>#usa_vehicles:T21_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1605,7 +1605,7 @@
 		<shortUserString>#usa_vehicles:M36_BP_short</shortUserString>
 		<description>#usa_vehicles:M36_BP_descr</description>
 		<price>500<gold/></price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1645,7 +1645,7 @@
 		<description>#usa_vehicles:M24_Chaffee_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1666,7 +1666,7 @@
 		<description>#usa_vehicles:M6E2V2_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

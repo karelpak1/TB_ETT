@@ -441,7 +441,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
         </price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
 		<tags>AT-SPG collectible heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
@@ -1069,7 +1069,7 @@
 		<description>#uk_vehicles:GB21_A27BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1091,7 +1091,7 @@
 		<notInShop>false</notInShop>
 		<price>500<gold/>
         </price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG heavyAT-SPG eventCamouflage_user collectible fictional</tags>
@@ -1130,7 +1130,7 @@
 		<description>#uk_vehicles:GB63_TOG_II_BP_descr</description>
 		<price>500<gold/>
         </price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1186,7 +1186,7 @@
 		<description>#uk_vehicles:GB09_Churchill_VII_BP_descr</description>
 		<price>500<gold/>
 		</price>
-		<sellPrice>500<gold/>
+		<sellPrice>1750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
