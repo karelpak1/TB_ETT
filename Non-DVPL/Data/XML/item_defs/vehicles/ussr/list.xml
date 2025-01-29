@@ -896,7 +896,17 @@
 		<userString>#ussr_vehicles:SU100Y</userString>
 		<description>#ussr_vehicles:SU100Y_descr</description>
 		<price>3000<gold/>
-    </price>
+		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
@@ -1471,6 +1481,16 @@
 		<description>#ussr_vehicles:R160_object_244_descr</description>
 		<price>3000<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank sinai</tags>
@@ -1802,7 +1822,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
-			<lunar>werewolf_2</lunar>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R178_Object_780>

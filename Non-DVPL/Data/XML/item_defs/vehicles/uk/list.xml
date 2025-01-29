@@ -528,6 +528,16 @@
 		<description>#gb_vehicles:GB63_TOG_II_descr</description>
 		<price>3100<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
@@ -595,6 +605,15 @@
 		<shortUserString>#gb_vehicles:GB85_Cromwell_Berlin_short</shortUserString>
 		<price>3000<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedSuspension_Christie_user</tags>
@@ -718,6 +737,16 @@
 		<description>#uk_vehicles:GB_Churchill_MkVI_descr</description>
 		<price>3100<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
@@ -1168,6 +1197,16 @@
 		<description>#uk_vehicles:GB_Churchill_MkVIII_descr</description>
 		<price>500<gold/>
         </price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>

@@ -1058,7 +1058,17 @@
 		<shortUserString>#germany_vehicles:DickerMax_short</shortUserString>
 		<description>#germany_vehicles:DickerMax_descr</description>
 		<price>2900<gold/>
-	</price>
+		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG mediumAT-SPG enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation</tags>
@@ -1327,6 +1337,16 @@
 		<description>#germany_vehicles:G136_Tiger_131_descr</description>
 		<price>3500<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
@@ -1849,6 +1869,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G164_Kpz_Pr_68_P>
+	<G85_Auf_Panther>
+		<id>106</id>
+		<userString>#germany_vehicles:G85_Auf_Panther</userString>
+		<shortUserString>#germany_vehicles:G85_Auf_Panther_short</shortUserString>
+		<description>#germany_vehicles:G85_Auf_Panther_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank beast</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G85_Auf_Panther>
 	<E75_CL>
 		<id>107</id>
 		<userString>#germany_vehicles:E75_CL</userString>

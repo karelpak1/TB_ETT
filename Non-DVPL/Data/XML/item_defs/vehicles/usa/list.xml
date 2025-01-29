@@ -1706,6 +1706,16 @@
 		<description>#usa_vehicles:A142_Pawlack_Tank_descr</description>
 		<price>2500<gold/>
 		</price>
+		<sellPrice>1750<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>29.04.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
