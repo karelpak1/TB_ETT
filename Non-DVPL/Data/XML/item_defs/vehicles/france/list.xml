@@ -438,12 +438,22 @@
 		<description>#france_vehicles:FCM_50t_descr</description>
 		<price>7350<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -474,6 +484,16 @@
 		<description>#france_vehicles:F74_AMX_M4_1949_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -587,7 +607,7 @@
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -706,6 +726,16 @@
 		<description>#france_vehicles:F116_Bat_Chat_Bourrasque_descr</description>
 		<price>7350<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>

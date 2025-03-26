@@ -327,7 +327,7 @@
 		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>devastator</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
@@ -820,6 +820,16 @@
 		<notInShop>false</notInShop>
 		<price>7550<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
@@ -898,13 +908,13 @@
 		<price>3000<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1310,7 +1320,7 @@
 		<tags>heavyTank fictional</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
@@ -1482,13 +1492,13 @@
 		<price>3000<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1636,6 +1646,16 @@
 		<description>#ussr_vehicles:R180_Object_274A_descr</description>
 		<price>7300<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>
@@ -1865,4 +1885,65 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</SU_122>
+	<R99_T44_122>
+		<id>114</id>
+		<userString>#ussr_vehicles:R99_T44_122</userString>
+		<shortUserString>#ussr_vehicles:R99_T44_122_short</shortUserString>
+		<description>#ussr_vehicles:R99_T44_122_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</R99_T44_122>
+	<R96_Object430B>
+		<id>115</id>
+		<userString>#ussr_vehicles:R96_Object430B</userString>
+		<shortUserString>#ussr_vehicles:R96_Object430B_short</shortUserString>
+		<description>#ussr_vehicles:R96_Object430B_descr</description>
+		<price>30000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</R96_Object430B>
+	<R222_Crossbow>
+		<id>116</id>
+		<userString>#ussr_vehicles:R222_Crossbow</userString>
+		<shortUserString>#ussr_vehicles:R222_Crossbow_short</shortUserString>
+		<description>#ussr_vehicles:R222_Crossbow_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R222_Crossbow>
 </root>

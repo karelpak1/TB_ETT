@@ -860,6 +860,16 @@
 		<description>#other_vehicles:Oth53_LV426_descr</description>
 		<price>7200<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank fictional</tags>
@@ -896,14 +906,12 @@
 		<userString>#other_vehicles:Oth55_MB64</userString>
 		<shortUserString>#other_vehicles:Oth55_MB64_short</shortUserString>
 		<description>#other_vehicles:Oth55_MB64_descr</description>
-		<price>5<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>mediumTank fictional InGame noRating</tags>
+		<tags>mediumTank fictional</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -928,4 +936,89 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth61_MB56>
+	<Oth56_MB35>
+		<id>62</id>
+		<userString>#other_vehicles:Oth56_MB35</userString>
+		<shortUserString>#other_vehicles:Oth56_MB35_short</shortUserString>
+		<description>#other_vehicles:Oth56_MB35_descr</description>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth56_MB35>
+	<Oth57_MB73>
+		<id>63</id>
+		<userString>#other_vehicles:Oth57_MB73</userString>
+		<shortUserString>#other_vehicles:Oth57_MB73_short</shortUserString>
+		<description>#other_vehicles:Oth57_MB73_descr</description>
+		<price>2500000</price>
+		<enrichmentPermanentCost>13500</enrichmentPermanentCost>
+		<tags>mediumTank fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth57_MB73>
+	<Oth58_MB15>
+		<id>64</id>
+		<userString>#other_vehicles:Oth58_MB15</userString>
+		<shortUserString>#other_vehicles:Oth58_MB15_short</shortUserString>
+		<description>#other_vehicles:Oth58_MB15_descr</description>
+		<price>1400000</price>
+		<enrichmentPermanentCost>10500</enrichmentPermanentCost>
+		<tags>mediumTank fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth58_MB15>
+	<Oth60_MB43>
+		<id>66</id>
+		<userString>#other_vehicles:Oth60_MB43</userString>
+		<shortUserString>#other_vehicles:Oth60_MB43_short</shortUserString>
+		<description>#other_vehicles:Oth60_MB43_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3600</enrichmentPermanentCost>
+		<tags>mediumTank fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth60_MB43>
+	<Oth59_MB48>
+		<id>68</id>
+		<userString>#other_vehicles:Oth59_MB48</userString>
+		<shortUserString>#other_vehicles:Oth59_MB48_short</shortUserString>
+		<description>#other_vehicles:Oth59_MB48_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>5500</enrichmentPermanentCost>
+		<tags>mediumTank fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth59_MB48>
 </root>

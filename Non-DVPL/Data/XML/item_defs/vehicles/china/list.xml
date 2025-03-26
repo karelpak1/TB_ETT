@@ -429,6 +429,16 @@
 		<description>#china_vehicles:Ch39_WZ120_1G_FT_descr</description>
 		<price>7200<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG mediumAT-SPG</tags>

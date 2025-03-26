@@ -1143,7 +1143,7 @@
 		<tags>AT-SPG heavyAT-SPG fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf</gravitizing>
@@ -1209,6 +1209,16 @@
 		<description>#usa_vehicles:A124_T54E2_descr</description>
 		<price>7200<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -1529,6 +1539,16 @@
 		<description>#usa_vehicles:A132_T77_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -1568,6 +1588,16 @@
 		<description>#usa_vehicles:A141_M-4-Y_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -1626,12 +1656,22 @@
 		<description>#usa_vehicles:A140_ASTRON_REX_105_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>

@@ -1157,12 +1157,22 @@
 		<description>#germany_vehicles:G106_PzKpfwPanther_AusfF_descr</description>
 		<price>7300<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -1469,7 +1479,7 @@
 		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
@@ -1681,6 +1691,16 @@
 		<description>#germany_vehicles:G142_M48RPz_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank eventCamouflage_user</tags>
@@ -1700,6 +1720,16 @@
 		<description>#germany_vehicles:G_E-75RT_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>2250<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>26.06.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -1862,7 +1892,7 @@
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>

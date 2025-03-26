@@ -19,6 +19,8 @@ tanks:
         position: [5, 22]
     Oth51_LV4:
         position: [5, 23]
+    Oth60_MB43:
+        position: [5, 24]
 #<!-- TIER_6 -->
     Oth33_Blizzard_BP:
         position: [6, 18]
@@ -32,6 +34,8 @@ tanks:
         position: [6, 22]
     Oth50_LV7:
         position: [6, 23]
+    Oth59_MB48:
+        position: [6, 24]
 #<!-- TIER_7 -->
     Sega_Edelweiss:
         position: [7, 1]
@@ -79,6 +83,8 @@ tanks:
         position: [7, 22]
     Oth49_LV90:
         position: [7, 23]
+    Oth58_MB15:
+        position: [7, 24]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
         position: [8, 17]
@@ -94,6 +100,8 @@ tanks:
         position: [8, 22]
     Oth48_LV500:
         position: [8, 23]
+    Oth57_MB73:
+        position: [8, 24]
 #<!-- TIER_9 -->
     Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 21]
@@ -101,10 +109,12 @@ tanks:
         position: [9, 22]
     Oth47_LV750:
         position: [9, 23]
+    Oth56_MB35:
+        position: [9, 24]
 #<!-- TIER_10 -->
-    Oth55_MB64:
-        position: [10, 21]
     Oth001_Protheus:
         position: [10, 22]
     Oth46_LV1300:
         position: [10, 23]
+    Oth55_MB64:
+        position: [10, 24]
