@@ -37,29 +37,29 @@ tanks:
     Oth59_MB48:
         position: [6, 24]
 #<!-- TIER_7 -->
-    Sega_Edelweiss:
+    Oth62_MT_MkVI:
         position: [7, 1]
     Oth42_ForestWitch_HW23:
         position: [7, 2]
-    Oth12_Sega_Hafen:
+    Oth12_MT_MvVII:
         position: [7, 3]
-    Oth06_Sega_Lupus:
+    Oth06_HT_MkIV:
         position: [7, 4]
     Oth20_M4FL10:
         position: [7, 5]
     Oth36_Indien_Panzer_S1:
         position: [7, 6]
-    Sega_Nameless:
+    Oth63_HT_MkVIII:
         position: [7, 7]
-    Oth09_WH_Predator:
+    Oth09_HT_HSHT:
         position: [7, 8]
     Oth28_Sturmfeur_HW:
         position: [7, 9]
     Oth52_ST_0424:
         position: [7, 10]
-    Oth08_WH_Vindicator:
+    Oth08_AT_HATG:
         position: [7, 11]
-    Oth22_Sega_Vulcan:
+    Oth22_HT_MkV:
         position: [7, 12]
     WZ-135G_FT:
         position: [7, 13]
@@ -92,7 +92,7 @@ tanks:
         position: [8, 18]
     Oth61_MB56:
         position: [8, 19]
-    Akawara:
+    Oth64_MT_MkXI:
         position: [8, 20]
     Oth30_T54MS:
         position: [8, 21]

@@ -1083,12 +1083,22 @@
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
 	</R105_BT_7A>
-	<T-34-85_Rudy>
+	<R_T34_85PL>
 		<id>250</id>
-		<userString>#ussr_vehicles:T-34-85_Rudy</userString>
-		<description>#ussr_vehicles:T-34-85_Rudy_descr</description>
+		<userString>#ussr_vehicles:R_T34_85PL</userString>
+		<description>#ussr_vehicles:R_T34_85PL_descr</description>
 		<price>4700<gold/>
 		</price>
+		<sellPrice>1750<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user eventCamouflage_user</tags>
 		<notInShop>false</notInShop>
@@ -1100,7 +1110,7 @@
 			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</T-34-85_Rudy>
+	</R_T34_85PL>
 	<T-34-85_Victory>
 		<id>251</id>
 		<userString>#ussr_vehicles:T-34-85_Victory</userString>

@@ -36,12 +36,22 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Strv_74A2>
-	<Sega_Edelweiss>
+	<Oth62_MT_MkVI>
 		<id>3</id>
-		<userString>#other_vehicles:Sega_Edelweiss</userString>
-		<shortUserString>#other_vehicles:Sega_Edelweiss_short</shortUserString>
+		<userString>#other_vehicles:Oth62_MT_MkVI</userString>
+		<shortUserString>#other_vehicles:Oth62_MT_MkVI_short</shortUserString>
 		<price>4900<gold/>
 		</price>
+		<sellPrice>2500<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user</tags>
@@ -53,13 +63,23 @@
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Sega_Edelweiss>
-	<Sega_Nameless>
+	</Oth62_MT_MkVI>
+	<Oth63_HT_MkVIII>
 		<id>5</id>
-		<userString>#other_vehicles:Sega_Nameless</userString>
-		<shortUserString>#other_vehicles:Sega_Nameless_short</shortUserString>
+		<userString>#other_vehicles:Oth63_HT_MkVIII</userString>
+		<shortUserString>#other_vehicles:Oth63_HT_MkVIII_short</shortUserString>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
@@ -70,7 +90,7 @@
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Sega_Nameless>
+	</Oth63_HT_MkVIII>
 	<Van_Helsing>
 		<id>6</id>
 		<userString>#other_vehicles:Van_Helsing</userString>
@@ -89,12 +109,22 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Van_Helsing>
-	<Akawara>
+	<Oth64_MT_MkXI>
 		<id>7</id>
-		<userString>#other_vehicles:Akawara</userString>
-		<shortUserString>#other_vehicles:Akawara_short</shortUserString>
+		<userString>#other_vehicles:Oth64_MT_MkXI</userString>
+		<shortUserString>#other_vehicles:Oth64_MT_MkXI_short</shortUserString>
 		<price>7300<gold/>
 		</price>
+		<sellPrice>3750<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user fictional</tags>
@@ -106,7 +136,7 @@
 			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Akawara>
+	</Oth64_MT_MkXI>
 	<WZ-135G_FT>
 		<id>8</id>
 		<userString>#other_vehicles:WZ-135G_FT</userString>
@@ -144,12 +174,22 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</AMX_dracula>
-	<Oth06_Sega_Lupus>
+	<Oth06_HT_MkIV>
 		<id>14</id>
-		<userString>#other_vehicles:Sega_Lupus</userString>
-		<shortUserString>#other_vehicles:Sega_Lupus_short</shortUserString>
+		<userString>#other_vehicles:Oth06_HT_MkIV</userString>
+		<shortUserString>#other_vehicles:Oth06_HT_MkIV_short</shortUserString>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
@@ -160,12 +200,12 @@
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Oth06_Sega_Lupus>
-	<Oth08_WH_Vindicator>
+	</Oth06_HT_MkIV>
+	<Oth08_AT_HATG>
 		<id>0</id>
-		<userString>#other_vehicles:Oth08_WH_Vindicator</userString>
-		<shortUserString>#other_vehicles:Oth08_WH_Vindicator_short</shortUserString>
-		<description>#other_vehicles:Oth08_WH_Vindicator_descr</description>
+		<userString>#other_vehicles:Oth08_AT_HATG</userString>
+		<shortUserString>#other_vehicles:Oth08_AT_HATG_short</shortUserString>
+		<description>#other_vehicles:Oth08_AT_HATG_descr</description>
 		<price>5000<gold/>
 		</price>
 		<sellPrice>2500<gold/>
@@ -181,12 +221,12 @@
 			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Oth08_WH_Vindicator>
-	<Oth09_WH_Predator>
+	</Oth08_AT_HATG>
+	<Oth09_HT_HSHT>
 		<id>4</id>
-		<userString>#other_vehicles:Oth09_WH_Predator</userString>
-		<shortUserString>#other_vehicles:Oth09_WH_Predator_short</shortUserString>
-		<description>#other_vehicles:Oth09_WH_Predator_descr</description>
+		<userString>#other_vehicles:Oth09_HT_HSHT</userString>
+		<shortUserString>#other_vehicles:Oth09_HT_HSHT_short</shortUserString>
+		<description>#other_vehicles:Oth09_HT_HSHT_descr</description>
 		<price>5000<gold/>
 		</price>
 		<sellPrice>2500<gold/>
@@ -201,7 +241,7 @@
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Oth09_WH_Predator>
+	</Oth09_HT_HSHT>
 	<Oth11_T-55A>
 		<id>15</id>
 		<userString>#other_vehicles:Oth11_T-55A</userString>
@@ -233,13 +273,23 @@
 		<level>1</level>
 		<configurationModes>production development</configurationModes>
 	</Oth10_WarDuck>
-	<Oth12_Sega_Hafen>
+	<Oth12_MT_MvVII>
 		<id>17</id>
-		<userString>#other_vehicles:Oth12_Sega_Hafen</userString>
-		<shortUserString>#other_vehicles:Oth12_Sega_Hafen_short</shortUserString>
-		<description>#other_vehicles:Oth12_Sega_Hafen_descr</description>
+		<userString>#other_vehicles:Oth12_MT_MvVII</userString>
+		<shortUserString>#other_vehicles:Oth12_MT_MvVII_short</shortUserString>
+		<description>#other_vehicles:Oth12_MT_MvVII_descr</description>
 		<price>4900<gold/>
 		</price>
+		<sellPrice>2500<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank fictional eventCamouflage_user</tags>
@@ -251,7 +301,7 @@
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
-	</Oth12_Sega_Hafen>
+	</Oth12_MT_MvVII>
 	<Oth14_MdM_AshKnight>
 		<id>18</id>
 		<userString>#other_vehicles:Oth14_MdM_AshKnight</userString>
@@ -385,13 +435,23 @@
 		<level>7</level>
 		<configurationModes>development production</configurationModes>
 	</Oth20_M4FL10>
-	<Oth22_Sega_Vulcan>
+	<Oth22_HT_MkV>
 		<id>27</id>
-		<userString>#other_vehicles:Oth22_Sega_Vulcan</userString>
-		<shortUserString>#other_vehicles:Oth22_Sega_Vulcan_short</shortUserString>
-		<description>#other_vehicles:Oth22_Sega_Vulcan_descr</description>
+		<userString>#other_vehicles:Oth22_HT_MkV</userString>
+		<shortUserString>#other_vehicles:Oth22_HT_MkV_short</shortUserString>
+		<description>#other_vehicles:Oth22_HT_MkV_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank fictional eventCamouflage_user</tags>
@@ -402,7 +462,7 @@
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
-	</Oth22_Sega_Vulcan>
+	</Oth22_HT_MkV>
 	<Oth23_Werewolf>
 		<id>28</id>
 		<userString>#other_vehicles:Oth23_Werewolf</userString>
@@ -861,13 +921,13 @@
 		<price>7200<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -927,7 +987,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank fictional InGame noRating</tags>
+		<tags>mediumTank fictional</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>

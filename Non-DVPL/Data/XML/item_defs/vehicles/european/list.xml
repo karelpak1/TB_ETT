@@ -274,13 +274,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -323,13 +323,13 @@
 		<price>2900<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>

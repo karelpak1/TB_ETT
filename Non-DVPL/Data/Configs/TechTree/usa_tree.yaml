@@ -65,7 +65,7 @@ tanks:
         position: [6, 12]
     M24_Chaffee_BP:
         position: [6, 13]
-    A104_M4A3E8A:
+    A104_M4A3E8F:
         position: [6, 14]
     Sherman_Jumbo:
         position: [6, 15]
@@ -200,16 +200,18 @@ tanks:
         position: [9, 28]
 #<!-- TIER_10 -->
     A155_AAT60:
-        position: [10, 15]
+        position: [10, 14]
     A128_Concept_1b:
-        position: [10, 16]
+        position: [10, 15]
     M60:
-        position: [10, 17]
+        position: [10, 16]
     A150_MBT_B:
-        position: [10, 18]
+        position: [10, 17]
     A116_XM551_Exp:
-        position: [10, 19]
+        position: [10, 18]
     A95_T95E6:
+        position: [10, 19]
+    A165_XM57:
         position: [10, 20]
     A153_XM66F:
         position: [10, 21]

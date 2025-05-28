@@ -200,11 +200,11 @@
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
 	</Ke_Ni_B>
-	<PzVI_GuP>
+	<J_PzVI>
 		<id>248</id>
-		<userString>#japan_vehicles:PzVI_GuP</userString>
-		<shortUserString>#japan_vehicles:PzVI_GuP_short</shortUserString>
-		<description>#japan_vehicles:PzVI_GuP_descr</description>
+		<userString>#japan_vehicles:J_PzVI</userString>
+		<shortUserString>#japan_vehicles:J_PzVI_short</shortUserString>
+		<description>#japan_vehicles:J_PzVI_descr</description>
 		<price>1200<gold/>
 		</price>
 		<sellPrice>1750<gold/>
@@ -219,12 +219,12 @@
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</PzVI_GuP>
-	<Pz_IV_AusfH>
+	</J_PzVI>
+	<J_PzIV>
 		<id>249</id>
-		<userString>#japan_vehicles:Pz_IV_AusfH</userString>
-		<shortUserString>#japan_vehicles:Pz_IV_AusfH_short</shortUserString>
-		<description>#japan_vehicles:Pz_IV_AusfH_descr</description>
+		<userString>#japan_vehicles:J_PzIV</userString>
+		<shortUserString>#japan_vehicles:J_PzIV_short</shortUserString>
+		<description>#japan_vehicles:J_PzIV_descr</description>
 		<price>1200<gold/>
     </price>
 		<sellPrice>250<gold/>
@@ -240,7 +240,7 @@
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</Pz_IV_AusfH>
+	</J_PzIV>
 	<Chi_Nu_Kai>
 		<id>255</id>
 		<userString>#japan_vehicles:Chi_Nu_Kai</userString>
@@ -260,11 +260,11 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Nu_Kai>
-	<G09_Hetzer_GuP>
+	<J_Hetzer>
 		<id>203</id>
-		<userString>#japan_vehicles:Hetzer_GuP</userString>
-		<shortUserString>#japan_vehicles:Hetzer_GuP_short</shortUserString>
-		<description>#japan_vehicles:Hetzer_descr</description>
+		<userString>#japan_vehicles:J_Hetzer</userString>
+		<shortUserString>#japan_vehicles:J_Hetzer_short</shortUserString>
+		<description>#japan_vehicles:J_Hetzer_descr</description>
 		<notInShop>false</notInShop>
 		<price>1200<gold/>
 		</price>
@@ -274,7 +274,7 @@
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
-	</G09_Hetzer_GuP>
+	</J_Hetzer>
 	<J20_Ho_Ri_type3>
 		<id>15</id>
 		<userString>#japan_vehicles:J20_Ho_Ri_type3</userString>
@@ -309,11 +309,11 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J21_Ho_Ri>
-	<IS-2_GuP>
+	<J_IS2>
 		<id>17</id>
-		<userString>#japan_vehicles:IS-2_GuP</userString>
-		<shortUserString>#japan_vehicles:IS-2_GuP_short</shortUserString>
-		<description>#japan_vehicles:IS-2_GuP_descr</description>
+		<userString>#japan_vehicles:J_IS2</userString>
+		<shortUserString>#japan_vehicles:J_IS2_short</shortUserString>
+		<description>#japan_vehicles:J_IS2_descr</description>
 		<price>1200<gold/>
 		</price>
 		<sellPrice>2500<gold/>
@@ -328,12 +328,12 @@
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
-	</IS-2_GuP>
-	<Firefly_GuP>
+	</J_IS2>
+	<J_Firefly>
 		<id>18</id>
-		<userString>#japan_vehicles:Firefly_GuP</userString>
-		<shortUserString>#japan_vehicles:Firefly_GuP_short</shortUserString>
-		<description>#japan_vehicles:Firefly_GuP_descr</description>
+		<userString>#japan_vehicles:J_Firefly</userString>
+		<shortUserString>#japan_vehicles:J_Firefly_short</shortUserString>
+		<description>#japan_vehicles:J_Firefly_descr</description>
 		<price>250<gold/>
         </price>
 		<sellPrice>1750<gold/>
@@ -349,7 +349,7 @@
 			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
-	</Firefly_GuP>
+	</J_Firefly>
 	<J22_Ho_Ri_type96>
 		<id>19</id>
 		<userString>#japan_vehicles:J22_Ho_Ri_type96</userString>
@@ -526,13 +526,13 @@
 		<price>7600<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -547,4 +547,24 @@
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</J31_Type_5_Ka_Ri>
+	<J36_Type_63_HT>
+		<id>30</id>
+		<userString>#japan_vehicles:J36_Type_63_HT</userString>
+		<shortUserString>#japan_vehicles:J36_Type_63_HT_short</shortUserString>
+		<description>#japan_vehicles:J36_Type_63_HT_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank collectible</tags>
+		<notInShop>false</notInShop>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J36_Type_63_HT>
 </root>

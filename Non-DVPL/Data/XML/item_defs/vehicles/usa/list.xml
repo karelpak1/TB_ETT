@@ -941,13 +941,23 @@
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
 	</T7_Combat_Car>
-	<A104_M4A3E8A>
+	<A104_M4A3E8F>
 		<id>219</id>
-		<userString>#usa_vehicles:A104_M4A3E8A</userString>
-		<description>#usa_vehicles:A104_M4A3E8A_descr</description>
-		<shortUserString>#usa_vehicles:A104_M4A3E8A_short</shortUserString>
+		<userString>#usa_vehicles:A104_M4A3E8F</userString>
+		<description>#usa_vehicles:A104_M4A3E8F_descr</description>
+		<shortUserString>#usa_vehicles:A104_M4A3E8F_short</shortUserString>
 		<price>4000<gold/>
 		</price>
+		<sellPrice>1750<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.05.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user eventCamouflage_user</tags>
@@ -959,7 +969,7 @@
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
-	</A104_M4A3E8A>
+	</A104_M4A3E8F>
 	<A102_T28_concept>
 		<id>221</id>
 		<userString>#usa_vehicles:A102_T28_concept</userString>
@@ -1210,13 +1220,13 @@
 		<price>7200<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1540,13 +1550,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1589,13 +1599,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1657,13 +1667,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1747,13 +1757,13 @@
 		<price>2500<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1963,4 +1973,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</M46A1E2>
+	<A165_XM57>
+		<id>120</id>
+		<userString>#usa_vehicles:A165_XM57</userString>
+		<shortUserString>#usa_vehicles:A165_XM57_short</shortUserString>
+		<description>#usa_vehicles:A165_XM57_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A165_XM57>
 </root>
