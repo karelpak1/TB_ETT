@@ -8,13 +8,13 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank fictional InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG fictional InGame noRating</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>sniper</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
-			<gravitizing>vampire_2</gravitizing>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth001_Protheus>

@@ -1994,4 +1994,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A165_XM57>
+	<M-9-Y>
+		<id>121</id>
+		<userString>#usa_vehicles:M-9-Y</userString>
+		<shortUserString>#usa_vehicles:M-9-Y_short</shortUserString>
+		<description>#usa_vehicles:M-9-Y_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-9-Y>
 </root>
