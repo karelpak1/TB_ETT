@@ -1259,6 +1259,16 @@
 		<notInShop>false</notInShop>
 		<price>7300<gold/>
 		</price>
+		<sellPrice>2000<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>28.08.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG mediumAT-SPG enhancedBelwillWashers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>

@@ -977,6 +977,16 @@
 		<shortUserString>#usa_vehicles:A102_T28_concept_short</shortUserString>
 		<price>4950<gold/>
 		</price>
+		<sellPrice>2000<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>28.08.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedVertical_springs_class3_user</tags>

@@ -87,14 +87,16 @@ tanks:
         position: [7, 24]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
-        position: [8, 17]
-    Oth53_LV426:
-        position: [8, 18]
-    Oth61_MB56:
-        position: [8, 19]
+        position: [8, 16]
     Oth64_MT_MkXI:
-        position: [8, 20]
+        position: [8, 17]
     Oth30_T54MS:
+        position: [8, 18]
+    Oth53_LV426:
+        position: [8, 19]
+    Oth61_MB56:
+        position: [8, 20]
+    Oth66_Frankenstank_Mk2:
         position: [8, 21]
     Oth43_WZ-122_2_Werewolf:
         position: [8, 22]

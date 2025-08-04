@@ -555,6 +555,16 @@
 		<description>#gb_vehicles:GB71_AT_15A_descr</description>
 		<price>5100<gold/>
 		</price>
+		<sellPrice>2000<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>28.08.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class3_user</tags>
@@ -804,6 +814,16 @@
 		<description>#uk_vehicles:GB52_FV201_A45_descr</description>
 		<price>5200<gold/>
 		</price>
+		<sellPrice>2000<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>28.08.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>

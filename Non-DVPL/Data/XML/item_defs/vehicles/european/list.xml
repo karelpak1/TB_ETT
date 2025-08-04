@@ -634,6 +634,16 @@
 		<description>#european_vehicles:Pl119_CS_52_LIS_descr</description>
 		<price>4900<gold/>
 		</price>
+		<sellPrice>2000<gold>
+			 <dateFactors>
+			   <factor> 
+				 <expirationDate>28.08.2025</expirationDate>
+				 <value>1</value>
+			   </factor>
+			 </dateFactors>
+		   </gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>
@@ -1106,6 +1116,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz29_Skoda_P-JS_BP>
+	<It31_CC_67B>
+		<id>65</id>
+		<userString>#european_vehicles:It31_CC_67B</userString>
+		<shortUserString>#european_vehicles:It31_CC_67B_short</shortUserString>
+		<description>#european_vehicles:It31_CC_67B_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It31_CC_67B>
 	<Pl29_NC_Wz_70T>
 		<id>71</id>
 		<userString>#european_vehicles:Pl29_NC_Wz_70T</userString>
