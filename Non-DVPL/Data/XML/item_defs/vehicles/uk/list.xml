@@ -529,13 +529,13 @@
 		<price>3100<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<notInShop>false</notInShop>
@@ -558,7 +558,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -616,13 +616,13 @@
 		<price>3000<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -748,13 +748,13 @@
 		<price>3100<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -817,7 +817,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -954,13 +954,13 @@
 		<price>7000<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1001,13 +1001,13 @@
 		<price>7200<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1101,13 +1101,13 @@
 		<price>7200<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1248,13 +1248,13 @@
 		<price>500<gold/>
         </price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>

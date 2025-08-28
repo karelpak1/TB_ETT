@@ -980,7 +980,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -2022,4 +2022,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</M-9-Y>
+	<T69D>
+		<id>122</id>
+		<userString>#usa_vehicles:T69D</userString>
+		<shortUserString>#usa_vehicles:T69D_short</shortUserString>
+		<description>#usa_vehicles:T69D_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T69D>
 </root>

@@ -100,7 +100,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -482,7 +482,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -530,7 +530,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -717,7 +717,7 @@
 		<sellPrice>2000<gold>
 			 <dateFactors>
 			   <factor> 
-				 <expirationDate>28.08.2025</expirationDate>
+				 <expirationDate>28.10.2025</expirationDate>
 				 <value>1</value>
 			   </factor>
 			 </dateFactors>
@@ -1121,6 +1121,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth59_MB48>
+	<Oth65_LKpz_70K>
+		<id>69</id>
+		<userString>#other_vehicles:Oth65_LKpz_70K</userString>
+		<shortUserString>#other_vehicles:Oth65_LKpz_70K_short</shortUserString>
+		<description>#other_vehicles:Oth65_LKpz_70K_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth65_LKpz_70K>
 	<Oth66_Frankenstank_Mk2>
 		<id>70</id>
 		<userString>#other_vehicles:Oth66_Frankenstank_Mk2</userString>

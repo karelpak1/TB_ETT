@@ -105,6 +105,8 @@ tanks:
     Oth57_MB73:
         position: [8, 24]
 #<!-- TIER_9 -->
+    Oth65_LKpz_70K:
+        position: [9, 20]
     Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 21]
     Oth11_T-55A:
