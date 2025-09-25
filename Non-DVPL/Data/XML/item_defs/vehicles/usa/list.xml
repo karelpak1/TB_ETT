@@ -1127,7 +1127,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
@@ -1528,7 +1528,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>

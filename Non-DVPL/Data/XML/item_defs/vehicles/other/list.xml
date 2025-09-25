@@ -1162,4 +1162,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth66_Frankenstank_Mk2>
+	<Oth67_HWT25>
+		<id>71</id>
+		<userString>#other_vehicles:Oth67_HWT25</userString>
+		<shortUserString>#other_vehicles:Oth67_HWT25_short</shortUserString>
+		<description>#other_vehicles:Oth67_HWT25_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth67_HWT25>
 </root>

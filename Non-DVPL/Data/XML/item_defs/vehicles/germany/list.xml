@@ -1060,13 +1060,13 @@
 		<price>2900<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1158,13 +1158,13 @@
 		<price>7300<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1358,13 +1358,13 @@
 		<price>3500<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1702,13 +1702,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1731,13 +1731,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -2044,4 +2044,23 @@
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</G141_VK7501K>
+	<G167_Tiger_Maus>
+		<id>113</id>
+		<userString>#germany_vehicles:G167_Tiger_Maus</userString>
+		<shortUserString>#germany_vehicles:G167_Tiger_Maus_short</shortUserString>
+		<description>#germany_vehicles:G167_Tiger_Maus_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G167_Tiger_Maus>
 </root>

@@ -1135,16 +1135,99 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It31_CC_67B>
+	<Pl33_SDP_Wz_40>
+		<id>66</id>
+		<userString>#european_vehicles:Pl33_SDP_Wz_40</userString>
+		<shortUserString>#european_vehicles:Pl33_SDP_Wz_40_short</shortUserString>
+		<description>#european_vehicles:Pl33_SDP_Wz_40_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3400</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl33_SDP_Wz_40>
+	<Pl32_SDP_Wz_44>
+		<id>67</id>
+		<userString>#european_vehicles:Pl32_SDP_Wz_44</userString>
+		<shortUserString>#european_vehicles:Pl32_SDP_Wz_44_short</shortUserString>
+		<description>#european_vehicles:Pl32_SDP_Wz_44_descr</description>
+		<price>910000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl32_SDP_Wz_44>
+	<Pl31_SDP_Wz_57D>
+		<id>68</id>
+		<userString>#european_vehicles:Pl31_SDP_Wz_57D</userString>
+		<shortUserString>#european_vehicles:Pl31_SDP_Wz_57D_short</shortUserString>
+		<description>#european_vehicles:Pl31_SDP_Wz_57D_descr</description>
+		<price>1400000</price>
+		<enrichmentPermanentCost>10700</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl31_SDP_Wz_57D>
+	<Pl30_SDP_Wz58T>
+		<id>69</id>
+		<userString>#european_vehicles:Pl30_SDP_Wz58T</userString>
+		<shortUserString>#european_vehicles:Pl30_SDP_Wz58T_short</shortUserString>
+		<description>#european_vehicles:Pl30_SDP_Wz58T_descr</description>
+		<price>2570000</price>
+		<enrichmentPermanentCost>14000</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl30_SDP_Wz58T>
+	<Pl28_SDP_Wz_60>
+		<id>70</id>
+		<userString>#european_vehicles:Pl28_SDP_Wz_60</userString>
+		<shortUserString>#european_vehicles:Pl28_SDP_Wz_60_short</shortUserString>
+		<description>#european_vehicles:Pl28_SDP_Wz_60_descr</description>
+		<price>3660000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl28_SDP_Wz_60>
 	<Pl29_NC_Wz_70T>
 		<id>71</id>
 		<userString>#european_vehicles:Pl29_NC_Wz_70T</userString>
 		<shortUserString>#european_vehicles:Pl29_NC_Wz_70T_short</shortUserString>
 		<description>#european_vehicles:Pl29_NC_Wz_70T_descr</description>
-		<price>7500<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -1154,4 +1237,41 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl29_NC_Wz_70T>
+	<Pl27_SDP_Wz_66T>
+		<id>72</id>
+		<userString>#european_vehicles:Pl27_SDP_Wz_66T</userString>
+		<shortUserString>#european_vehicles:Pl27_SDP_Wz_66T_short</shortUserString>
+		<description>#european_vehicles:Pl27_SDP_Wz_66T_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl27_SDP_Wz_66T>
+	<Pl24_56TP>
+		<id>73</id>
+		<userString>#european_vehicles:Pl24_56TP</userString>
+		<shortUserString>#european_vehicles:Pl24_56TP_short</shortUserString>
+		<description>#european_vehicles:Pl24_56TP_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl24_56TP>
 </root>

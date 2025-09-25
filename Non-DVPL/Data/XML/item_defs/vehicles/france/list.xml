@@ -439,13 +439,13 @@
 		<price>7350<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<notInShop>false</notInShop>
@@ -485,13 +485,13 @@
 		<price>7500<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -698,13 +698,13 @@
 		<price>2900<gold/>
 		</price>
 		<sellPrice>1750<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>29.04.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.04.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -727,13 +727,13 @@
 		<price>7350<gold/>
 		</price>
 		<sellPrice>2250<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>26.06.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>26.06.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -951,4 +951,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F118_Char_Mle_75>
+	<F126_Char_Lourd_AP58>
+		<id>82</id>
+		<userString>#france_vehicles:F126_Char_Lourd_AP58</userString>
+		<shortUserString>#france_vehicles:F126_Char_Lourd_AP58_short</shortUserString>
+		<description>#france_vehicles:F126_Char_Lourd_AP58_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F126_Char_Lourd_AP58>
 </root>
