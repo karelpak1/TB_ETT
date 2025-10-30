@@ -1149,7 +1149,7 @@
 		<description>#other_vehicles:Oth66_Frankenstank_Mk2_descr</description>
 		<price>7500<gold/>
 		</price>
-		<sellPrice>2500<gold/>
+		<sellPrice>3750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

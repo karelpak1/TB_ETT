@@ -1,157 +1,159 @@
-premium_rows: 11
+premium_rows: 12
 
 tanks:
 #<!-- TIER_1 -->
     F01_Vickers_MkF:
-        position: [1, 15]
+        position: [1, 16]
 #<!-- TIER_2 -->
     Pl06_10TP:
-        position: [2, 15]
+        position: [2, 16]
 #<!-- TIER_3 -->
     Pl07_14TP:
-        position: [3, 15]
+        position: [3, 16]
 #<!-- TIER_4 -->
     S04_Lago-I:
-        position: [4, 15]
+        position: [4, 16]
 #<!-- TIER_5 -->
     Pl33_SDP_Wz_40:
-        position: [5, 12]
-    It15_Semovente_M41:
         position: [5, 13]
+    It15_Semovente_M41:
+        position: [5, 14]
     S02_StrvM42:
-        position: [5, 15]
+        position: [5, 16]
     Pl17_DS_PZlnz:
-        position: [5, 19]
+        position: [5, 20]
 #<!-- TIER_6 -->
     Cz08_T-25BPS:
-        position: [6, 5]
-    Cz08_T-25BP:
         position: [6, 6]
-    Cz29_Skoda_P-JS_BP:
+    Cz08_T-25BP:
         position: [6, 7]
-    It10_P43_BD:
+    Cz29_Skoda_P-JS_BP:
         position: [6, 8]
-    Pl03_PzV_Pudel:
+    It10_P43_BD:
         position: [6, 9]
-    It10_P43_bis_BP:
+    Pl03_PzV_Pudel:
         position: [6, 10]
-    S07_Strv74BP:
+    It10_P43_bis_BP:
         position: [6, 11]
-    Pl32_SDP_Wz_44:
+    S07_Strv74BP:
         position: [6, 12]
-    It16_Bassoto:
+    Pl32_SDP_Wz_44:
         position: [6, 13]
-    S07_Strv_74:
+    It16_Bassoto:
         position: [6, 14]
-    Pl10_40TP_Habicha:
+    S07_Strv_74:
         position: [6, 15]
-    Cz29_Skoda_P-JS:
+    Pl10_40TP_Habicha:
         position: [6, 16]
-    It10_P43_bis:
+    Cz29_Skoda_P-JS:
         position: [6, 17]
-    Cz08_T-25:
+    It10_P43_bis:
         position: [6, 18]
-    Pl18_BUGI:
+    Cz08_T-25:
         position: [6, 19]
+    Pl18_BUGI:
+        position: [6, 20]
 #<!-- TIER_7 -->
     Pl119_CS_52_LIS:
-        position: [7, 9]
-    S13_Leo_NY:
         position: [7, 10]
-    Cz15_Skoda_T-45:
+    S13_Leo_NY:
         position: [7, 11]
-    Pl31_SDP_Wz_57D:
+    Cz15_Skoda_T-45:
         position: [7, 12]
-    It17_Semovente_mod_56:
+    Pl31_SDP_Wz_57D:
         position: [7, 13]
-    S13_Leo:
+    It17_Semovente_mod_56:
         position: [7, 14]
-    Pl11_45TP_Habicha:
+    S13_Leo:
         position: [7, 15]
-    Cz19_Vz_44_1:
+    Pl11_45TP_Habicha:
         position: [7, 16]
-    It09_P43_ter:
+    Cz19_Vz_44_1:
         position: [7, 17]
-    Cz05_T34-100:
+    It09_P43_ter:
         position: [7, 18]
-    Pl20_CS_44:
+    Cz05_T34-100:
         position: [7, 19]
+    Pl20_CS_44:
+        position: [7, 20]
 #<!-- TIER_8 -->
     Pl24_56TP:
         position: [8, 1]
     It22_Progetto_C45_mod_71:
         position: [8, 2]
-    S25_EMIL_51:
+    Pl35_CS_57_Sokol:
         position: [8, 3]
-    S26_Lancen_C:
+    S25_EMIL_51:
         position: [8, 4]
-    It13_Progetto_M35_mod_46:
+    S26_Lancen_C:
         position: [8, 5]
-    Cz13_T-27:
+    It13_Progetto_M35_mod_46:
         position: [8, 6]
-    Cz14_Skoda_T-56:
+    Cz13_T-27:
         position: [8, 7]
-    It31_CC_67B:
+    Cz14_Skoda_T-56:
         position: [8, 8]
-    S23_Strv_81:
+    It31_CC_67B:
         position: [8, 9]
-    S32_Bofors_Tornvagn:
+    S23_Strv_81:
         position: [8, 10]
-    Pl27_SDP_Wz_66T:
+    S32_Bofors_Tornvagn:
         position: [8, 11]
-    Pl30_SDP_Wz58T:
+    Pl27_SDP_Wz_66T:
         position: [8, 12]
-    It18_Semovente_mod_64:
+    Pl30_SDP_Wz58T:
         position: [8, 13]
-    S18_EMIL_1951E1:
+    It18_Semovente_mod_64:
         position: [8, 14]
-    Pl13_53TP_Markowskiego:
+    S18_EMIL_1951E1:
         position: [8, 15]
-    Cz18_TNH_105_1000:
+    Pl13_53TP_Markowskiego:
         position: [8, 16]
-    It14_P44_Pantera:
+    Cz18_TNH_105_1000:
         position: [8, 17]
-    Cz07_TVP_46:
+    It14_P44_Pantera:
         position: [8, 18]
-    Pl23_CS_53:
+    Cz07_TVP_46:
         position: [8, 19]
+    Pl23_CS_53:
+        position: [8, 20]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
-        position: [9, 11]
-    Pl28_SDP_Wz_60:
         position: [9, 12]
-    It19_Controcarro_1MK2_Ciclope:
+    Pl28_SDP_Wz_60:
         position: [9, 13]
-    S17_EMIL_1952E2:
+    It19_Controcarro_1MK2_Ciclope:
         position: [9, 14]
-    Pl05_50TP_Tyszkiewicza:
+    S17_EMIL_1952E2:
         position: [9, 15]
-    Cz16_TNH_T_vz51:
+    Pl05_50TP_Tyszkiewicza:
         position: [9, 16]
-    It12_Prototipo_Standard_B:
+    Cz16_TNH_T_vz51:
         position: [9, 17]
-    Cz02_T50:
+    It12_Prototipo_Standard_B:
         position: [9, 18]
-    Pl22_CS_59:
+    Cz02_T50:
         position: [9, 19]
+    Pl22_CS_59:
+        position: [9, 20]
 #<!-- TIER_10 -->
     It20_Car_Comb_45t:
-        position: [10, 10]
-    S31_Strv_K:
         position: [10, 11]
-    Pl29_NC_Wz_70T:
+    S31_Strv_K:
         position: [10, 12]
-    It21_Controcarro3_Minotauro:
+    Pl29_NC_Wz_70T:
         position: [10, 13]
-    S16_Kranvagn:
+    It21_Controcarro3_Minotauro:
         position: [10, 14]
-    Pl15_60TP:
+    S16_Kranvagn:
         position: [10, 15]
-    Cz17_Vz_55:
+    Pl15_60TP:
         position: [10, 16]
-    It08_Progetto_M40_mod65:
+    Cz17_Vz_55:
         position: [10, 17]
-    Cz04_T50_51:
+    It08_Progetto_M40_mod65:
         position: [10, 18]
-    Pl21_CS_63:
+    Cz04_T50_51:
         position: [10, 19]
+    Pl21_CS_63:
+        position: [10, 20]

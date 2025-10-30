@@ -635,13 +635,13 @@
 		<price>4900<gold/>
 		</price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1265,7 +1265,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1274,4 +1274,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl24_56TP>
+	<Pl35_CS_57_Sokol>
+		<id>74</id>
+		<userString>#european_vehicles:Pl35_CS_57_Sokol</userString>
+		<shortUserString>#european_vehicles:Pl35_CS_57_Sokol_short</shortUserString>
+		<description>#european_vehicles:Pl35_CS_57_Sokol_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl35_CS_57_Sokol>
 </root>
