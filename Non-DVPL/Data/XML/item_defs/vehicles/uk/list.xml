@@ -1381,4 +1381,24 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB129_FV205b_Alligator>
+	<GB114_Vickers_MBT_Mk3>
+		<id>93</id>
+		<userString>#uk_vehicles:GB114_Vickers_MBT_Mk3</userString>
+		<shortUserString>#uk_vehicles:GB114_Vickers_MBT_Mk3_short</shortUserString>
+		<description>#uk_vehicles:GB114_Vickers_MBT_Mk3_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>hunter_2</hellgames>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB114_Vickers_MBT_Mk3>
 </root>

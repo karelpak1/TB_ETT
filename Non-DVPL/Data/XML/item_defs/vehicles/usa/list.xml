@@ -978,13 +978,13 @@
 		<price>4950<gold/>
 		</price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>

@@ -1033,6 +1033,7 @@
 			<arcade>halfheavy</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth61_MB56>

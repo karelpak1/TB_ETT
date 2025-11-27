@@ -1994,4 +1994,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</IS-3_25>
+	<MS-11>
+		<id>118</id>
+		<userString>#ussr_vehicles:MS-11</userString>
+		<shortUserString>#ussr_vehicles:MS-11_short</shortUserString>
+		<description>#ussr_vehicles:MS-11_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</MS-11>
 </root>

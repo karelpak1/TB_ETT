@@ -206,8 +206,10 @@ tanks:
         position: [9, 29]
 #<!-- TIER_10 -->
     R96_Object430B:
-        position: [10, 15]
+        position: [10, 14]
     IS-7CL:
+        position: [10, 15]
+    MS-11:
         position: [10, 16]
     R110_Object_260:
         position: [10, 17]

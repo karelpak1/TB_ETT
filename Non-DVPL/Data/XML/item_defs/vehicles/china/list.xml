@@ -947,6 +947,7 @@
 			<arcade>halfheavy</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch61_DZT_159>
