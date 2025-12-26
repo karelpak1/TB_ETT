@@ -2015,4 +2015,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</MS-11>
+	<R165_Object_703_II>
+		<id>119</id>
+		<userString>#ussr_vehicles:R165_Object_703_II</userString>
+		<shortUserString>#ussr_vehicles:R165_Object_703_II_short</shortUserString>
+		<description>#ussr_vehicles:R165_Object_703_II_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R165_Object_703_II>
 </root>
