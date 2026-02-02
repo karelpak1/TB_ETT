@@ -143,6 +143,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch09_M5>
 	<Ch16_WZ_131>
@@ -217,6 +220,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch08_Type97_Chi_Ha>
 	<Ch21_T34>
@@ -420,6 +426,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch_LT_vz38>
 	<Ch39_WZ120_1G_FT>

@@ -54,6 +54,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank enhancedSuspension_Christie_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</BT-7>
 	<BT-2>
@@ -64,6 +67,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank enhancedSuspension_Christie_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</BT-2>
 	<T-28>
@@ -78,6 +84,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible enhancedSuspension_candle_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T-28>
 	<A-20>
@@ -88,6 +97,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</A-20>
 	<SU-152>
@@ -149,6 +161,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T-46>
 	<MS-1>
@@ -216,6 +231,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG enhancedSuspension_Vikkers_user improvedVentilation_class1_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</AT-1>
 	<IS-3>
@@ -275,6 +293,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG enhancedTorsions1t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</SU-76>
 	<T-43>
@@ -301,6 +322,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG lightAT-SPG enhancedTorsions1t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GAZ-74b>
 	<IS-7>
@@ -769,6 +793,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedSuspension_Christie_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</BT-SV>
 	<Valentine_LL>
@@ -783,6 +810,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible lendLeaseVehicle</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>berserk</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Valentine_LL>
 	<M3_Stuart_LL>
@@ -797,6 +827,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible lendLeaseVehicle</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M3_Stuart_LL>
 	<A-32>
@@ -811,6 +844,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</A-32>
 	<KV-5>
@@ -852,6 +888,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T-127>
 	<SU_85I>
@@ -884,6 +923,9 @@
 		<notInShop>false</notInShop>
 		<tags>AT-SPG collectible mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user grousers_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</SU76I>
 	<Tetrarch_LL>
@@ -899,6 +941,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible lendLeaseVehicle</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Tetrarch_LL>
 	<SU100Y>
@@ -959,6 +1004,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedTorsions1t_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</LTP>
 	<R113_Object_730>
@@ -1081,6 +1129,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible enhancedSuspension_Christie_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</R105_BT_7A>
 	<R_T34_85PL>
@@ -1198,6 +1249,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedTorsions1t_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</R43_T-70_57>
 	<R111_ISU130>
@@ -1535,6 +1589,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</MS-1obr21>
 	<R_Object_84>
@@ -2033,4 +2090,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R165_Object_703_II>
+	<R169_ST_II>
+		<id>120</id>
+		<userString>#ussr_vehicles:R169_ST_II</userString>
+		<shortUserString>#ussr_vehicles:R169_ST_II_short</shortUserString>
+		<description>#ussr_vehicles:R169_ST_II_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R169_ST_II>
 </root>

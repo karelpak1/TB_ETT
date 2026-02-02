@@ -110,6 +110,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire_2</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</S04_Lago-I>
 	<Pl07_14TP>
@@ -121,6 +124,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl07_14TP>
 	<Pl06_10TP>
@@ -132,6 +138,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl06_10TP>
 	<F01_Vickers_MkF>

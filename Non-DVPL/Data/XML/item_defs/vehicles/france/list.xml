@@ -8,6 +8,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>berserk</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D2>
 	<RenaultFT>
@@ -31,6 +34,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</B1>
 	<D1>
@@ -46,6 +52,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D1>
 	<FCM_36Pak40>
@@ -61,6 +70,9 @@
 		<notInShop>false</notInShop>
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
+		<combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</FCM_36Pak40>
 	<ARL_44>
@@ -92,6 +104,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX40>
 	<AMX_50_100>
@@ -186,6 +201,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX38>
 	<AMX_50B>
@@ -266,6 +284,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultFT_AC>
 	<RenaultUE57>
@@ -281,6 +302,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter_2</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultUE57>
 	<Somua_Sau_40>
@@ -292,6 +316,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user improvedVentilation_class1_user enhancedSprings_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf_2</hellgames>
+        </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</Somua_Sau_40>
 	<S_35CA>
@@ -989,4 +1016,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F119_Projet_Murat>
+	<F115_Lorraine_50t>
+		<id>84</id>
+		<userString>#france_vehicles:F115_Lorraine_50t</userString>
+		<shortUserString>#france_vehicles:F115_Lorraine_50t_short</shortUserString>
+		<description>#france_vehicles:F115_Lorraine_50t_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F115_Lorraine_50t>
 </root>

@@ -23,6 +23,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M3_Stuart>
 	<T1_Cunningham>
@@ -158,6 +161,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M3_Grant>
 	<T1_hvy>
@@ -219,6 +225,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>berserk</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M2_med>
 	<M5_Stuart>
@@ -230,6 +239,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M5_Stuart>
 	<M7_med>
@@ -241,6 +253,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M7_med>
 	<T2_med>
@@ -256,6 +271,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible mediumCaliberTankRammer_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T2_med>
 	<Pershing>
@@ -287,6 +305,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG improvedVentilation_class1_user enhancedVertical_springs_user enhancedVertical_springs_user</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T18>
 	<T82>
@@ -301,6 +322,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T82>
 	<M10_Wolverine>
@@ -349,6 +373,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible mediumAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T40>
 	<T28>
@@ -479,6 +506,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG lightAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M8A1>
 	<T49>
@@ -820,6 +850,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T2_lt>
 	<Ram-II>
@@ -891,6 +924,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M22_Locust>
 	<M6A2E1_exp>
@@ -924,6 +960,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>hunter</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T1_E6>
 	<T7_Combat_Car>
@@ -939,6 +978,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank collectible</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T7_Combat_Car>
 	<A104_M4A3E8F>
@@ -1089,6 +1131,9 @@
 		<notInShop>false</notInShop>
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>development production</configurationModes>
 	</A77_T6M>
 	<M2_lt_tutorial_bot>
@@ -2041,4 +2086,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</T69D>
+	<T49D>
+		<id>123</id>
+		<userString>#usa_vehicles:T49D</userString>
+		<shortUserString>#usa_vehicles:T49D_short</shortUserString>
+		<description>#usa_vehicles:T49D_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T49D>
 </root>

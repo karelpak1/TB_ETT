@@ -8,6 +8,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank</tags>
 		<level>2</level>
+        <combatRole>
+            <hellgames>werewolf</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Ni>
 	<NC27>
@@ -76,6 +79,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_He>
 	<Chi_To>
@@ -104,6 +110,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>hunter_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Ha>
 	<Ke_Ni>
@@ -119,6 +128,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Ke_Ni>
 	<STA_1>
@@ -151,6 +163,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Ke_Ho>
 	<Type_61>
@@ -198,6 +213,9 @@
 		<notInShop>false</notInShop>
 		<tags>lightTank enhancedSuspension_Christie_user wetCombatPack_class1_user</tags>
 		<level>3</level>
+        <combatRole>
+            <hellgames>vampire</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Ke_Ni_B>
 	<J_PzVI>
@@ -273,6 +291,9 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
 		<level>4</level>
+        <combatRole>
+            <hellgames>werewolf_2</hellgames>
+        </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</J_Hetzer>
 	<J20_Ho_Ri_type3>

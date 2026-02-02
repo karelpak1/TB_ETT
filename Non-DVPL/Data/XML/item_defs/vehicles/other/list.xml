@@ -98,13 +98,13 @@
 		<price>4900<gold/>
 		</price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -480,13 +480,13 @@
 		<description>#other_vehicles:Oth23_Werewolf_descr</description>
 		<price>5000<gold/></price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -528,13 +528,13 @@
 		<price>5000<gold/>
 		</price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -715,13 +715,13 @@
 		<price>5000<gold/>
 		</price>
 		<sellPrice>2000<gold>
-			 <dateFactors>
-			   <factor> 
-				 <expirationDate>28.10.2025</expirationDate>
-				 <value>1</value>
-			   </factor>
-			 </dateFactors>
-		   </gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>28.10.2025</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
 		</sellPrice>
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1181,4 +1181,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth67_HWT25>
+	<Oth68_MB85>
+		<id>72</id>
+		<userString>#other_vehicles:Oth68_MB85</userString>
+		<shortUserString>#other_vehicles:Oth68_MB85_short</shortUserString>
+		<description>#other_vehicles:Oth68_MB85_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth68_MB85>
 </root>

@@ -95,12 +95,14 @@ tanks:
         position: [8, 15]
 #<!-- TIER_9 -->
     F71_AMX_30_prototype:
-        position: [9, 9]
+        position: [9, 8]
     Bat-Chat-25CL:
-        position: [9, 10]
+        position: [9, 9]
     F114_Projet_4_1:
-        position: [9, 11]
+        position: [9, 10]
     F118_Char_Mle_75:
+        position: [9, 11]
+    F115_Lorraine_50t:
         position: [9, 12]
     AMX50_Foch:
         position: [9, 13]
