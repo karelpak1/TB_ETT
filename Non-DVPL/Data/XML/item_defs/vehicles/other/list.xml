@@ -1192,7 +1192,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional InGame noRating</tags>
+		<tags>mediumTank collectible fictional</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

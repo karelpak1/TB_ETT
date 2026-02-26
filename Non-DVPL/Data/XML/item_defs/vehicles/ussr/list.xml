@@ -2081,7 +2081,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -2108,4 +2108,42 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R169_ST_II>
+	<R188_Object_259A>
+		<id>123</id>
+		<userString>#ussr_vehicles:R188_Object_259A</userString>
+		<shortUserString>#ussr_vehicles:R188_Object_259A_short</shortUserString>
+		<description>#ussr_vehicles:R188_Object_259A_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R188_Object_259A>
+	<R183_K_91_PT>
+		<id>125</id>
+		<userString>#ussr_vehicles:R183_K_91_PT</userString>
+		<shortUserString>#ussr_vehicles:R183_K_91_PT_short</shortUserString>
+		<description>#ussr_vehicles:R183_K_91_PT_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG InGame noRating collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R183_K_91_PT>
 </root>
