@@ -144,7 +144,8 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch09_M5>
@@ -221,7 +222,8 @@
 		<tags>mediumTank wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch08_Type97_Chi_Ha>
@@ -296,7 +298,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
+		<tags>heavyTank fictional enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -427,7 +429,8 @@
 		<tags>lightTank</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch_LT_vz38>
@@ -855,7 +858,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG eventCamouflage_user</tags>
+		<tags>AT-SPG mediumAT-SPG fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>

@@ -46,7 +46,7 @@ tanks:
     GAZ-74b:
         position: [4, 26]
     A-20:
-        position: [4, 27]
+        position: [4, 28]
 #<!-- TIER_5 -->
     Churchill_LL:
         position: [5, 20]
@@ -60,12 +60,14 @@ tanks:
         position: [5, 24]
     SU-85:
         position: [5, 26]
-    T-34:
-        position: [5, 27]
     KV1:
+        position: [5, 28]
+    T-34:
         position: [5, 30]
 #<!-- TIER_6 --> 
     R197_KV_1S_MZ:
+        position: [6, 13]
+    KV2:
         position: [6, 14]
     R140_M4A2_Loza:
         position: [6, 15]
@@ -89,15 +91,15 @@ tanks:
         position: [6, 24]
     SU-100:
         position: [6, 26]
-    T-34-85:
-        position: [6, 27]
-    MT25:
-        position: [6, 29]
     KV-1s:
+        position: [6, 28]
+    T-34-85:
         position: [6, 30]
-    KV2:
+    MT25:
         position: [6, 31]
 #<!-- TIER_7 -->
+    R131_LTG:
+        position: [7, 17]
     R71_IS_2B:
         position: [7, 18]
     R175_IS_2E:
@@ -116,15 +118,13 @@ tanks:
         position: [7, 25]
     SU100M1:
         position: [7, 26]
-    T-43:
-        position: [7, 27]
-    R107_LTB:
-        position: [7, 28]
-    R131_LTG:
-        position: [7, 29]
     IS:
-        position: [7, 30]
+        position: [7, 28]
     KV-3:
+        position: [7, 29]
+    T-43:
+        position: [7, 30]
+    R107_LTB:
         position: [7, 31]
 #<!-- TIER_8 -->
     R222_Crossbow:
@@ -179,15 +179,19 @@ tanks:
         position: [8, 25]
     SU-101:
         position: [8, 26]
-    T-44:
+    R170_IS_2_II:
         position: [8, 27]
-    R109_T54S:
-        position: [8, 29]
     IS-3:
-        position: [8, 30]
+        position: [8, 28]
     KV4:
+        position: [8, 29]
+    T-44:
+        position: [8, 30]
+    R109_T54S:
         position: [8, 31]
 #<!-- TIER_9 -->
+    R177_ISU_152K:
+        position: [9, 19]
     K-91:
         position: [9, 20]
     R183_K_91_PT:
@@ -202,24 +206,28 @@ tanks:
         position: [9, 25]
     SU122_54:
         position: [9, 26]
-    T-54:
-        position: [9, 28]
-    R_Object_84:
-        position: [9, 29]
+    R171_IS_3_II:
+        position: [9, 27]
     IS8:
-        position: [9, 30]
+        position: [9, 28]
     ST_I:
+        position: [9, 29]
+    T-54:
+        position: [9, 30]
+    R_Object_84:
         position: [9, 31]
 #<!-- TIER_10 -->
-    R96_Object430B:
-        position: [10, 15]
     IS-7CL:
-        position: [10, 16]
+        position: [10, 14]
     MS-11:
-        position: [10, 17]
+        position: [10, 15]
+    Object_140:
+        position: [10, 16]
     R110_Object_260:
-        position: [10, 18]
+        position: [10, 17]
     R149_Object_268_4:
+        position: [10, 18]
+    R96_Object430B:
         position: [10, 19]
     R119_Object_777:
         position: [10, 20]
@@ -227,21 +235,19 @@ tanks:
         position: [10, 21]
     Object_907:
         position: [10, 22]
-    R169_ST_II:
-        position: [10, 23]
     R120_T22SR:
         position: [10, 24]
     Object268:
         position: [10, 25]
     Object263:
         position: [10, 26]
-    Object_140:
+    R169_ST_II:
         position: [10, 27]
-    T62A:
-        position: [10, 28]
-    R132_T100LT:
-        position: [10, 29]
     IS-7:
-        position: [10, 30]
+        position: [10, 28]
     IS-4:
+        position: [10, 29]
+    T62A:
+        position: [10, 30]
+    R132_T100LT:
         position: [10, 31]

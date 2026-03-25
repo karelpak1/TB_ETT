@@ -42,7 +42,8 @@
 		<tags>lightTank enhancedSprings_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz35t>
@@ -107,7 +108,8 @@
 		<tags>AT-SPG lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf_2</hellgames>
+            <arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Hetzer>
@@ -184,7 +186,8 @@
 		<tags>lightTank collectible enhancedSprings_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz38t>
@@ -202,7 +205,8 @@
 		<tags>AT-SPG collectible lightAT-SPG</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PanzerJager_I>
@@ -250,7 +254,8 @@
 		<tags>mediumTank enhancedTorsions3t_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIII>
@@ -268,7 +273,8 @@
 		<tags>lightTank collectible grousers_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIII_A>
@@ -319,7 +325,8 @@
 		<tags>lightTank collectible enhancedTorsions1t_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzII_Luchs>
@@ -358,7 +365,8 @@
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>hunter_2</hellgames>
+            <arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G20_Marder_II>
@@ -457,7 +465,8 @@
 		<tags>lightTank collectible enhancedSprings_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz38_NA>
@@ -675,7 +684,8 @@
 		<tags>lightTank collectible</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz_II_AusfG>
@@ -693,7 +703,8 @@
 		<tags>heavyTank collectible enhancedTorsions3t_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</DW_II>
@@ -855,7 +866,8 @@
 		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz_IV_AusfA>
@@ -869,7 +881,8 @@
 		<tags>mediumTank enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire_2</hellgames>
+            <arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz_IV_AusfD>
@@ -955,7 +968,8 @@
 		<tags>lightTank collectible enhancedTorsions1t_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzII_J>
@@ -973,7 +987,8 @@
 		<tags>mediumTank collectible</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</S35_captured>
@@ -991,7 +1006,8 @@
 		<tags>heavyTank collectible</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</B-1bis_captured>
@@ -1009,7 +1025,8 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>sniper</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</H39_captured>
@@ -1062,7 +1079,8 @@
 		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T-15>
@@ -1203,7 +1221,8 @@
 		<tags>heavyTank collectible wetCombatPack_class1_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G100_Gtraktor_Krupp>
@@ -1299,7 +1318,7 @@
 		<price>7400<gold/>
     </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG heavyAT-SPG beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
+		<tags>AT-SPG heavyAT-SPG beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user fictional</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1426,7 +1445,7 @@
 		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
+		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>

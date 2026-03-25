@@ -9,7 +9,8 @@
 		<tags>heavyTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D2>
@@ -35,7 +36,8 @@
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</B1>
@@ -53,7 +55,8 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D1>
@@ -71,7 +74,8 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
 		<combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</FCM_36Pak40>
@@ -105,7 +109,8 @@
 		<tags>mediumTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX40>
@@ -202,7 +207,8 @@
 		<tags>mediumTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX38>
@@ -285,7 +291,8 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultFT_AC>
@@ -303,7 +310,8 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>hunter_2</hellgames>
+            <arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultUE57>
@@ -317,7 +325,8 @@
 		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user improvedVentilation_class1_user enhancedSprings_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf_2</hellgames>
+            <arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
         </combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</Somua_Sau_40>
@@ -784,7 +793,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank eventCamouflage_user</tags>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -845,7 +854,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user</tags>
+		<tags>AT-SPG mediumAT-SPG fictional collectible eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1027,7 +1036,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_support</arcade>

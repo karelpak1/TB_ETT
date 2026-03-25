@@ -24,7 +24,8 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M3_Stuart>
@@ -162,7 +163,8 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire_2</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire_2</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M3_Grant>
@@ -226,7 +228,8 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>berserk</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M2_med>
@@ -240,7 +243,8 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M5_Stuart>
@@ -254,7 +258,8 @@
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>sniper</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M7_med>
@@ -272,7 +277,8 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>sniper</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T2_med>
@@ -306,7 +312,8 @@
 		<tags>AT-SPG collectible lightAT-SPG improvedVentilation_class1_user enhancedVertical_springs_user enhancedVertical_springs_user</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T18>
@@ -323,7 +330,8 @@
 		<tags>AT-SPG collectible lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T82>
@@ -374,7 +382,8 @@
 		<tags>AT-SPG collectible mediumAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_assault</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T40>
@@ -507,7 +516,8 @@
 		<tags>AT-SPG lightAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_assault</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M8A1>
@@ -851,7 +861,8 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T2_lt>
@@ -925,7 +936,8 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</M22_Locust>
@@ -961,7 +973,8 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T1_E6>
@@ -979,7 +992,8 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>sniper</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T7_Combat_Car>
@@ -1050,7 +1064,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user eventCamouflage_user</tags>
+		<tags>heavyTank fictional aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1090,7 +1104,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame eventCamouflage_user</tags>
+		<tags>lightTank InGame eventCamouflage_user fictional</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1132,7 +1146,8 @@
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>werewolf</hellgames>
+            <arcade>halfheavy</arcade>
+			<hellgames>werewolf</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</A77_T6M>
@@ -1365,7 +1380,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame eventCamouflage_user</tags>
+		<tags>mediumTank collectible InGame eventCamouflage_user fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1386,7 +1401,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom eventCamouflage_user</tags>
+		<tags>lightTank collectible fictional noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1588,7 +1603,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank eventCamouflage_user</tags>
+		<tags>heavyTank fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1841,7 +1856,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank eventCamouflage_user</tags>
+		<tags>lightTank fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>

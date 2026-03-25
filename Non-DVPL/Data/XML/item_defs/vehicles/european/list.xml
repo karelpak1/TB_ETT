@@ -111,7 +111,8 @@
 		<tags>mediumTank</tags>
 		<level>4</level>
         <combatRole>
-            <hellgames>vampire_2</hellgames>
+            <arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</S04_Lago-I>
@@ -125,7 +126,8 @@
 		<tags>lightTank</tags>
 		<level>3</level>
         <combatRole>
-            <hellgames>vampire</hellgames>
+            <arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl07_14TP>
@@ -139,7 +141,8 @@
 		<tags>lightTank</tags>
 		<level>2</level>
         <combatRole>
-            <hellgames>hunter</hellgames>
+            <arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
         </combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl06_10TP>
@@ -314,7 +317,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank eventCamouflage_user collectible</tags>
+		<tags>mediumTank fictional eventCamouflage_user collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
