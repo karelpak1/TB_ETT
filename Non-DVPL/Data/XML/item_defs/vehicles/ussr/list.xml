@@ -1930,6 +1930,16 @@
 		<description>#ussr_vehicles:R200_KV_4T_descr</description>
 		<price>7600<gold/>
 		</price>
+		<sellPrice>2250<gold>
+				<dateFactors>
+					<factor>
+						<expirationDate>29.07.2026</expirationDate>
+						<value>1</value>
+					</factor>
+				</dateFactors>
+			</gold>
+		</sellPrice>
+		<useSellPriceForCompensation>false</useSellPriceForCompensation>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank</tags>
@@ -2178,7 +2188,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -2228,4 +2238,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R183_K_91_PT>
+	<R_T_34_85MO>
+		<id>126</id>
+		<userString>#ussr_vehicles:R_T_34_85MO</userString>
+		<shortUserString>#ussr_vehicles:R_T_34_85MO_short</shortUserString>
+		<description>#ussr_vehicles:R_T_34_85MO_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible eventCamouflage_user fictional</tags>
+		<notInShop>false</notInShop>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R_T_34_85MO>
 </root>
