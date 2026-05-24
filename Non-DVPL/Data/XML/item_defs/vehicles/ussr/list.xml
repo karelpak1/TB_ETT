@@ -2122,7 +2122,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank noTournaments</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -2138,7 +2138,7 @@
 		<description>#ussr_vehicles:R169_ST_II_descr</description>
 		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank noTournaments</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -2154,7 +2154,7 @@
 		<description>#ussr_vehicles:R171_IS_3_II_descr</description>
 		<price>3600000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank noTournaments sinai</tags>
+		<tags>heavyTank sinai</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -2170,7 +2170,7 @@
 		<description>#ussr_vehicles:R170_IS_2_II_descr</description>
 		<price>2600000</price>
 		<enrichmentPermanentCost>13700</enrichmentPermanentCost>
-		<tags>heavyTank noTournaments sinai</tags>
+		<tags>heavyTank sinai</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -2208,7 +2208,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG sinai heavyAT-SPG InGame noRating collectible</tags>
+		<tags>AT-SPG sinai heavyAT-SPG collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_support</arcade>

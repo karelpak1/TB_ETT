@@ -110,10 +110,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank</tags>
 		<level>4</level>
-        <combatRole>
-            <arcade>scout</arcade>
+		<combatRole>
+			<arcade>scout</arcade>
 			<hellgames>vampire_2</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S04_Lago-I>
 	<Pl07_14TP>
@@ -125,10 +125,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank</tags>
 		<level>3</level>
-        <combatRole>
-            <arcade>cavalry</arcade>
+		<combatRole>
+			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl07_14TP>
 	<Pl06_10TP>
@@ -140,10 +140,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank</tags>
 		<level>2</level>
-        <combatRole>
-            <arcade>close_support</arcade>
+		<combatRole>
+			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl06_10TP>
 	<F01_Vickers_MkF>

@@ -1202,4 +1202,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth68_MB85>
+	<Oth69_LV915>
+		<id>73</id>
+		<userString>#other_vehicles:Oth69_LV915</userString>
+		<shortUserString>#other_vehicles:Oth69_LV915_short</shortUserString>
+		<description>#other_vehicles:Oth69_LV915_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth69_LV915>
 </root>
