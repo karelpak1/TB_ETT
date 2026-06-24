@@ -1843,6 +1843,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R194_ST_62_var_2>
+	<T34_85TUR>
+		<id>104</id>
+		<userString>#ussr_vehicles:T34_85TUR</userString>
+		<shortUserString>#ussr_vehicles:T34_85TUR_short</shortUserString>
+		<description>#ussr_vehicles:T34_85TUR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T34_85TUR>
 	<R187_Object_590>
 		<id>105</id>
 		<userString>#ussr_vehicles:R187_Object_590</userString>
@@ -1857,6 +1878,7 @@
 		<combatRole>
 			<arcade>halfheavy</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>werewolf</gravitizing>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -2259,4 +2281,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R_T_34_85MO>
+	<R173_K_91_2_122>
+		<id>127</id>
+		<userString>#ussr_vehicles:R173_K_91_2_122</userString>
+		<shortUserString>#ussr_vehicles:R173_K_91_2_122_short</shortUserString>
+		<description>#ussr_vehicles:R173_K_91_2_122_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R173_K_91_2_122>
 </root>

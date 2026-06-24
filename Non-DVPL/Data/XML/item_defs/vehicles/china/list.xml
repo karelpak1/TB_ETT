@@ -765,6 +765,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch44_114_SP2>
+	<Type_58TUR>
+		<id>44</id>
+		<userString>#china_vehicles:Type_58TUR</userString>
+		<shortUserString>#china_vehicles:Type_58TUR_short</shortUserString>
+		<description>#china_vehicles:Type_58TUR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Type_58TUR>
 	<Ch59_BZ58_2>
 		<id>45</id>
 		<userString>#china_vehicles:Ch59_BZ58_2</userString>

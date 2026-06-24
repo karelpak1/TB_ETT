@@ -1219,7 +1219,28 @@
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth69_LV915>
+	<Oth70_Frankenstank_Mk3>
+		<id>74</id>
+		<userString>#other_vehicles:Oth70_Frankenstank_Mk3</userString>
+		<shortUserString>#other_vehicles:Oth70_Frankenstank_Mk3_short</shortUserString>
+		<description>#other_vehicles:Oth70_Frankenstank_Mk3_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth70_Frankenstank_Mk3>
 </root>

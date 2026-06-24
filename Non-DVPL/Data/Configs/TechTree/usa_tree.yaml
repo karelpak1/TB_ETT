@@ -58,26 +58,28 @@ tanks:
         position: [5, 29]
 #<!-- TIER_6 -->
     M18E2BP:
-        position: [6, 13]
+        position: [6, 12]
     M6E2V2_BP:
-        position: [6, 14]
+        position: [6, 13]
     M36_BP:
-        position: [6, 15]
+        position: [6, 14]
     M24_Chaffee_BP:
-        position: [6, 16]
+        position: [6, 15]
     A104_M4A3E8F:
-        position: [6, 17]
+        position: [6, 16]
     Sherman_Jumbo:
-        position: [6, 18]
+        position: [6, 17]
     M6E2BP:
-        position: [6, 19]
+        position: [6, 18]
     A142_Pawlack_Tank:
-        position: [6, 20]
+        position: [6, 19]
     T21_BP:
-        position: [6, 21]
+        position: [6, 20]
     M4A3E8_BP:
-        position: [6, 22]
+        position: [6, 21]
     M4A3E8TU:
+        position: [6, 22]
+    M4A3E8TUR:
         position: [6, 23]
     T21:
         position: [6, 24]

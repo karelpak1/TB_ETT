@@ -1947,6 +1947,26 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Nashorn_BP>
+	<PzVI_AusfTUR>
+		<id>103</id>
+		<userString>#germany_vehicles:PzVI_AusfTUR</userString>
+		<shortUserString>#germany_vehicles:PzVI_AusfTUR_short</shortUserString>
+		<description>#germany_vehicles:PzVI_AusfTUR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank beast collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</PzVI_AusfTUR>
 	<G154_Kpz_07_RH>
 		<id>104</id>
 		<userString>#germany_vehicles:G154_Kpz_07_RH</userString>
@@ -2136,6 +2156,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G167_Tiger_Maus>
