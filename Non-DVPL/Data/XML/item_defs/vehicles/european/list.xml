@@ -1305,4 +1305,44 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl35_CS_57_Sokol>
+	<Cz37_Vz_59_Dravec>
+		<id>75</id>
+		<userString>#european_vehicles:Cz37_Vz_59_Dravec</userString>
+		<shortUserString>#european_vehicles:Cz37_Vz_59_Dravec_short</shortUserString>
+		<description>#european_vehicles:Cz37_Vz_59_Dravec_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz37_Vz_59_Dravec>
+	<It23_Lion>
+		<id>76</id>
+		<userString>#european_vehicles:It23_Lion</userString>
+		<shortUserString>#european_vehicles:It23_Lion_short</shortUserString>
+		<description>#european_vehicles:It23_Lion_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It23_Lion>
 </root>

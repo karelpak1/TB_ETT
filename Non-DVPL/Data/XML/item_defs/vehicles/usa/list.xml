@@ -2141,4 +2141,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</T49D>
+	<A145_TS_54>
+		<id>124</id>
+		<userString>#usa_vehicles:A145_TS_54</userString>
+		<shortUserString>#usa_vehicles:A145_TS_54_short</shortUserString>
+		<description>#usa_vehicles:A145_TS_54_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A145_TS_54>
 </root>
