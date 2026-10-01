@@ -1329,13 +1329,11 @@
 		<userString>#european_vehicles:It23_Lion</userString>
 		<shortUserString>#european_vehicles:It23_Lion_short</shortUserString>
 		<description>#european_vehicles:It23_Lion_descr</description>
-		<price>15000<gold/>
+		<price>30000<gold/>
 		</price>
-		<sellPrice>7500<gold/>
-		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1345,4 +1343,40 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It23_Lion>
+	<Pl26_Czolg_P_Wz_46>
+		<id>77</id>
+		<userString>#european_vehicles:Pl26_Czolg_P_Wz_46</userString>
+		<shortUserString>#european_vehicles:Pl26_Czolg_P_Wz_46_short</shortUserString>
+		<description>#european_vehicles:Pl26_Czolg_P_Wz_46_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl26_Czolg_P_Wz_46>
+	<It33_Orso>
+		<id>78</id>
+		<userString>#european_vehicles:It33_Orso</userString>
+		<shortUserString>#european_vehicles:It33_Orso_short</shortUserString>
+		<description>#european_vehicles:It33_Orso_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>hunter_2</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It33_Orso>
 </root>

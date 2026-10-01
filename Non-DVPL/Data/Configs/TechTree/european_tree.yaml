@@ -25,17 +25,17 @@ tanks:
 #<!-- TIER_6 -->
     Cz08_T-25BPS:
         position: [6, 7]
-    Cz08_T-25BP:
-        position: [6, 8]
     Cz29_Skoda_P-JS_BP:
-        position: [6, 9]
+        position: [6, 8]
     It10_P43_BD:
-        position: [6, 10]
+        position: [6, 9]
     Pl03_PzV_Pudel:
+        position: [6, 10]
+    Cz08_T-25BP:
         position: [6, 11]
-    It10_P43_bis_BP:
-        position: [6, 12]
     S07_Strv74BP:
+        position: [6, 12]
+    It10_P43_bis_BP:
         position: [6, 13]
     Pl32_SDP_Wz_44:
         position: [6, 14]
@@ -56,9 +56,9 @@ tanks:
 #<!-- TIER_7 -->
     Pl119_CS_52_LIS:
         position: [7, 11]
-    S13_Leo_NY:
-        position: [7, 12]
     Cz15_Skoda_T-45:
+        position: [7, 12]
+    S13_Leo_NY:
         position: [7, 13]
     Pl31_SDP_Wz_57D:
         position: [7, 14]
@@ -89,19 +89,19 @@ tanks:
         position: [8, 5]
     It13_Progetto_M35_mod_46:
         position: [8, 6]
-    Cz13_T-27:
-        position: [8, 7]
-    Cz14_Skoda_T-56:
-        position: [8, 8]
     It31_CC_67B:
-        position: [8, 9]
+        position: [8, 7]
     S23_Strv_81:
-        position: [8, 10]
+        position: [8, 8]
     S32_Bofors_Tornvagn:
-        position: [8, 11]
+        position: [8, 9]
     Cz37_Vz_59_Dravec:
-        position: [8, 12]
+        position: [8, 10]
     Pl27_SDP_Wz_66T:
+        position: [8, 11]
+    Cz13_T-27:
+        position: [8, 12]
+    Cz14_Skoda_T-56:
         position: [8, 13]
     Pl30_SDP_Wz58T:
         position: [8, 14]
@@ -140,8 +140,12 @@ tanks:
         position: [9, 21]
 #<!-- TIER_10 -->
     It20_Car_Comb_45t:
-        position: [10, 11]
+        position: [10, 9]
+    Pl26_Czolg_P_Wz_46:
+        position: [10, 10]
     It23_Lion:
+        position: [10, 11]
+    It33_Orso:
         position: [10, 12]
     S31_Strv_K:
         position: [10, 13]

@@ -3,7 +3,7 @@ premium_rows: 12
 tanks:
 #<!-- TIER_1 -->
     Ch06_Renault_NC31:
-        position: [1, 11]
+        position: [1, 12]
     Ch07_Vickers_MkE_Type_BT26:
         position: [1, 14]
 #<!-- TIER_2 -->
@@ -19,17 +19,17 @@ tanks:
     Ch21_T34:
         position: [5, 14]
 #<!-- TIER_6 -->
-    Type_58BP:
-        position: [6, 7]
     Type_58TU:
-        position: [6, 8]
+        position: [6, 7]
     Type_58TUR:
-        position: [6, 9]
+        position: [6, 8]
     Ch24_Type64:
+        position: [6, 9]
+    Type_58BP:
         position: [6, 10]
-    Ch34_WZ-131G_FT_BP:
-        position: [6, 11]
     Ch15_59_16_BP:
+        position: [6, 11]
+    Ch34_WZ-131G_FT_BP:
         position: [6, 12]
     Ch34_WZ-131G_FT:
         position: [6, 13]
@@ -63,19 +63,19 @@ tanks:
         position: [8, 4]
     Ch01_Type59:
         position: [8, 5]
-    Ch36_WZ-111-1G_FT_Com:
-        position: [8, 6]
     Ch03_WZ-111:
-        position: [8, 7]
+        position: [8, 6]
     Ch58_111_Vz51:
-        position: [8, 8]
+        position: [8, 7]
     Ch_WZ-112v2:
-        position: [8, 9]
+        position: [8, 8]
     Ch46_113_140:
-        position: [8, 10]
+        position: [8, 9]
     Ch39_WZ120_1G_FT:
-        position: [8, 11]
+        position: [8, 10]
     Ch43_WZ-122_2:
+        position: [8, 11]
+    Ch36_WZ-111-1G_FT_Com:
         position: [8, 12]
     Ch36_WZ-111-1G_FT:
         position: [8, 13]
@@ -106,10 +106,12 @@ tanks:
         position: [9, 17]
 #<!-- TIER_10 -->
     Ch44_114_SP2:
-        position: [10, 9]
+        position: [10, 8]
     Ch52_WZ_122_6_F3:
-        position: [10, 10]
+        position: [10, 9]
     Ch25_121_mod_1971B:
+        position: [10, 10]
+    Ch56_BZ_74_1:
         position: [10, 11]
     Ch41_WZ_111_5A:
         position: [10, 12]

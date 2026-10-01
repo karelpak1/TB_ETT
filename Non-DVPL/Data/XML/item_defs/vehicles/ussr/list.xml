@@ -2286,13 +2286,11 @@
 		<userString>#ussr_vehicles:R173_K_91_2_122</userString>
 		<shortUserString>#ussr_vehicles:R173_K_91_2_122_short</shortUserString>
 		<description>#ussr_vehicles:R173_K_91_2_122_descr</description>
-		<price>10000<gold/>
+		<price>15000<gold/>
 		</price>
-		<sellPrice>5000<gold/>
-		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>revenger</arcade>

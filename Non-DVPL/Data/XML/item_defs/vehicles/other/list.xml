@@ -1230,11 +1230,9 @@
 		<description>#other_vehicles:Oth70_Frankenstank_Mk3_descr</description>
 		<price>7500<gold/>
 		</price>
-		<sellPrice>3750<gold/>
-		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<tags>heavyTank fictional</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -1243,4 +1241,61 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth70_Frankenstank_Mk3>
+	<Oth77_DS345_Onyx>
+		<id>76</id>
+		<userString>#other_vehicles:Oth77_DS345_Onyx</userString>
+		<shortUserString>#other_vehicles:Oth77_DS345_Onyx_short</shortUserString>
+		<description>#other_vehicles:Oth77_DS345_Onyx_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG fictional InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth77_DS345_Onyx>
+	<Oth71_DS5642_Obsidian>
+		<id>75</id>
+		<userString>#other_vehicles:Oth71_DS5642_Obsidian</userString>
+		<shortUserString>#other_vehicles:Oth71_DS5642_Obsidian_short</shortUserString>
+		<description>#other_vehicles:Oth71_DS5642_Obsidian_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG fictional InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth71_DS5642_Obsidian>
+	<Oth78_HWT26>
+		<id>82</id>
+		<userString>#other_vehicles:Oth78_HWT26</userString>
+		<shortUserString>#other_vehicles:Oth78_HWT26_short</shortUserString>
+		<description>#other_vehicles:Oth78_HWT26_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth78_HWT26>
 </root>

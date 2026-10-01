@@ -3,7 +3,7 @@ premium_rows: 3
 tanks:
 #<!-- TIER_1 -->
     NC27:
-        position: [1, 2]
+        position: [1, 3]
     Ha_Go:
         position: [1, 6]
 #<!-- TIER_2 -->

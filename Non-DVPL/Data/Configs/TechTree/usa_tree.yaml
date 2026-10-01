@@ -2,10 +2,10 @@ premium_rows: 25
 
 tanks:
 #<!-- TIER_1 -->
+    T1_Cunningham:
+        position: [1, 25]
     M2_lt:
         position: [1, 28]
-    T1_Cunningham:
-        position: [1, 24]
 #<!-- TIER_2 -->
     T18:
         position: [2, 21]
@@ -20,11 +20,11 @@ tanks:
     M3_Stuart:
         position: [2, 28]
 #<!-- TIER_3 -->
-    M2_med:
-        position: [3, 23]
-    T82:
-        position: [3, 24]
     M22_Locust:
+        position: [3, 23]
+    M2_med:
+        position: [3, 24]
+    T82:
         position: [3, 25]
     M5_Stuart:
         position: [3, 28]
@@ -38,7 +38,7 @@ tanks:
     M8A1:
         position: [4, 27]
     M7_med:
-        position: [4, 30]
+        position: [4, 28]
 #<!-- TIER_5 -->
     A05_M4_105BD:
         position: [5, 21]
@@ -59,29 +59,29 @@ tanks:
 #<!-- TIER_6 -->
     M18E2BP:
         position: [6, 13]
-    M6E2V2_BP:
-        position: [6, 14]
     M36_BP:
-        position: [6, 15]
+        position: [6, 14]
     M24_Chaffee_BP:
+        position: [6, 15]
+    Sherman_Jumbo:
         position: [6, 16]
     A104_M4A3E8F:
         position: [6, 17]
-    Sherman_Jumbo:
+    M4A3E8TUR:
         position: [6, 18]
     M6E2BP:
         position: [6, 19]
     A142_Pawlack_Tank:
         position: [6, 20]
-    T21_BP:
-        position: [6, 21]
-    M4A3E8_BP:
-        position: [6, 22]
     M4A3E8TU:
-        position: [6, 23]
-    M4A3E8TUR:
-        position: [6, 24]
+        position: [6, 21]
     T21:
+        position: [6, 22]
+    M6E2V2_BP:
+        position: [6, 23]
+    T21_BP:
+        position: [6, 24]
+    M4A3E8_BP:
         position: [6, 25]
     M18_Hellcat:
         position: [6, 26]

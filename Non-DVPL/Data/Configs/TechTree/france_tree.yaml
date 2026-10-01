@@ -3,7 +3,7 @@ premium_rows: 12
 tanks:
 #<!-- TIER_1 -->
     RenaultFT:
-        position: [1, 11]
+        position: [1, 12]
     RenaultR35:
         position: [1, 14]
 #<!-- TIER_2 -->
@@ -41,11 +41,11 @@ tanks:
         position: [6, 8]
     F113_PzV_FR:
         position: [6, 9]
-    Achilles_FR:
+    F34_ARL_V39_BP:
         position: [6, 10]
     ARL_44BP:
         position: [6, 11]
-    F34_ARL_V39_BP:
+    Achilles_FR:
         position: [6, 12]
     ARL_V39:
         position: [6, 13]

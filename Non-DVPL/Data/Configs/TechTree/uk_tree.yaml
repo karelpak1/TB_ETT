@@ -3,9 +3,9 @@ premium_rows: 11
 tanks:
 #<!-- TIER_1 -->
     GB01_Medium_Mark_I:
-        position: [1, 9]
-    GB_Mark_I:
         position: [1, 10]
+    GB_Mark_I:
+        position: [1, 11]
     GB69_Cruiser_Mk_II:
         position: [1, 14]
 #<!-- TIER_2 -->
@@ -38,13 +38,13 @@ tanks:
     GB07_Matilda:
         position: [4, 15]
 #<!-- TIER_5 -->
-    GB44_Archer_Custom:
-        position: [5, 8]
     GB51_Excelsior:
-        position: [5, 9]
+        position: [5, 8]
     GB68_Matilda_Black_Prince:
-        position: [5, 10]
+        position: [5, 9]
     GB_Sherman_V:
+        position: [5, 10]
+    GB44_Archer_Custom:
         position: [5, 11]
     GB73_AT2:
         position: [5, 12]
@@ -59,19 +59,19 @@ tanks:
         position: [6, 3]
     GB40_Gun_Carrier_Churchill:
         position: [6, 4]
-    GB_Churchill_MkVIII:
-        position: [6, 5]
     GB_Churchill_MkVI:
+        position: [6, 5]
+    GB_Churchill_MkVIII:
         position: [6, 6]
     GB09_Churchill_VII_BP:
-        position: [6, 7]        
+        position: [6, 7]
     GB85_Cromwell_Berlin:
         position: [6, 8]
-    GB40_Gun_Carrier_BP:
-        position: [6, 9]
-    GB21_A27BP:
-        position: [6, 10]
     GB63_TOG_II:
+        position: [6, 9]
+    GB40_Gun_Carrier_BP:
+        position: [6, 10]
+    GB21_A27BP:
         position: [6, 11]
     GB74_AT8:
         position: [6, 12]
@@ -124,7 +124,7 @@ tanks:
     GB23_Centurion:
         position: [8, 14]
     GB_FV301:
-        position: [8, 15]  
+        position: [8, 15]
     GB11_Caernarvon:
         position: [8, 16]
 #<!-- TIER_9 -->
