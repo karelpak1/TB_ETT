@@ -1002,4 +1002,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch56_BZ_74_1>
+	<Ch74_WZ_57_I>
+		<id>58</id>
+		<userString>#china_vehicles:Ch74_WZ_57_I</userString>
+		<shortUserString>#china_vehicles:Ch74_WZ_57_I_short</shortUserString>
+		<description>#china_vehicles:Ch74_WZ_57_I_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch74_WZ_57_I>
 </root>
