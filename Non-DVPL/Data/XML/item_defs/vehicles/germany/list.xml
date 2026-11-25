@@ -2181,6 +2181,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G181_StuG_Maus>
+	<Stractor>
+		<id>115</id>
+		<userString>#germany_vehicles:Stractor</userString>
+		<shortUserString>#germany_vehicles:Stractor_short</shortUserString>
+		<description>#germany_vehicles:Stractor_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Stractor>
 	<G164_Kpz_Pr68P_26>
 		<id>116</id>
 		<userString>#germany_vehicles:G164_Kpz_Pr68P_26</userString>

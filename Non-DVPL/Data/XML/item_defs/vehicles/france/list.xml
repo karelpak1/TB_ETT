@@ -8,10 +8,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
-        <combatRole>
-            <arcade>halfheavy</arcade>
+		<combatRole>
+			<arcade>halfheavy</arcade>
 			<hellgames>berserk</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D2>
 	<RenaultFT>
@@ -35,10 +35,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
 		<level>4</level>
-        <combatRole>
-            <arcade>halfheavy</arcade>
+		<combatRole>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</B1>
 	<D1>
@@ -54,10 +54,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
-        <combatRole>
-            <arcade>stormtrooper</arcade>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</D1>
 	<FCM_36Pak40>
@@ -74,9 +74,9 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
 		<combatRole>
-            <arcade>stormtrooper</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</FCM_36Pak40>
 	<ARL_44>
@@ -108,10 +108,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
-        <combatRole>
-            <arcade>halfheavy</arcade>
+		<combatRole>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX40>
 	<AMX_50_100>
@@ -206,10 +206,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
-        <combatRole>
-            <arcade>close_support</arcade>
+		<combatRole>
+			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX38>
 	<AMX_50B>
@@ -290,10 +290,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
 		<level>2</level>
-        <combatRole>
-            <arcade>close_support</arcade>
+		<combatRole>
+			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultFT_AC>
 	<RenaultUE57>
@@ -309,10 +309,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
-        <combatRole>
-            <arcade>devastator</arcade>
+		<combatRole>
+			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultUE57>
 	<Somua_Sau_40>
@@ -324,10 +324,10 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user improvedVentilation_class1_user enhancedSprings_user</tags>
 		<level>4</level>
-        <combatRole>
-            <arcade>dreadnought</arcade>
+		<combatRole>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
-        </combatRole>
+		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</Somua_Sau_40>
 	<S_35CA>
@@ -1046,4 +1046,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F115_Lorraine_50t>
+	<F69_AMX_13_57CR>
+		<id>85</id>
+		<userString>#france_vehicles:F69_AMX_13_57CR</userString>
+		<shortUserString>#france_vehicles:F69_AMX_13_57CR_short</shortUserString>
+		<description>#france_vehicles:F69_AMX_13_57CR_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F69_AMX_13_57CR>
 </root>

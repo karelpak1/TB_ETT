@@ -129,6 +129,8 @@ tanks:
         position: [9, 26]
 #<!-- TIER_10 -->
     Oth71_DS5642_Obsidian:
+        position: [10, 21]
+    Oth79_LV1154:
         position: [10, 22]
     Oth68_MB85:
         position: [10, 23]

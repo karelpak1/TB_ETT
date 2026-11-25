@@ -1298,6 +1298,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth78_HWT26>
+	<Oth79_LV1154>
+		<id>83</id>
+		<userString>#other_vehicles:Oth79_LV1154</userString>
+		<shortUserString>#other_vehicles:Oth79_LV1154_short</shortUserString>
+		<description>#other_vehicles:Oth79_LV1154_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth79_LV1154>
 	<Oth002_Thetis>
 		<id>84</id>
 		<userString>#other_vehicles:Oth002_Thetis</userString>
